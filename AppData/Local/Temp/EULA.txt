@@ -1,0 +1,164 @@
+===== [ ENGLISH VERSION ] =====
+
+AdwCleaner - Terms of use
+
+BY USING THIS SOFTWARE, YOU ACCEPT THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE , DO NOT USE THE SOFTWARE.
+
+
+1. PARTIES
+
+This agreement is between the software developer, Xplode ( hereinafter referred to as "the developer" ) , and any user of the software, of failing to have the legal capacity to accept this agreement, its legal representative ( hereinafter referred to as "you" )
+
+
+2. OBJECT OF THE AGREEMENT
+
+This agreement applies to AdwCleaner ( hereinafter referred to as "the software" ) , downloaded from the website toolslib.net, bleepingcomputer.com or filepony.de. It also applies to updates of the software and any other related service.
+
+
+3. DURATION
+
+This agreement is concluded for an unlimited duration. You may terminate it at any time by deleting the software.
+
+
+4. USAGE RIGHTS
+
+The software is provided free of charge, but it remains the property of the developer. Therefore, all the rights that you are not expressly granted in this agreement remain the responsibility of the developer
+
+
+4.1. INSTALLATION
+
+This agreement, if accepted, allows you to install any number of copies of the software on your computer(s).
+
+
+4.2. USE
+
+The software is designed to operate in a specific manner, you must comply with any technical limitations imposed by it.
+
+
+4.3. TECHNICAL ASSISTANCE
+
+No technical support will be provided due to the use of the software service.
+
+
+5. PROHIBITIONS
+
+Subject as otherwise provided in regulations in your country, any use other than intended and permitted in these Terms of Use is prohibited, in particular :
+
+
+5.1. DISTRIBUTION AND SALES
+
+The software is available for free download on toolslib.net, bleepingcomputer.com or filepony.de. Copying of the software provided by a source other than those described above without the express written permission constitutes an infringement.
+Accordingly, it is prohibited to :
+* Publish the software, including through a third party, without the consent of the developer.
+* Transfer the software or this agreement to any third party.
+* Sell, lease or lend the software to a third party.
+
+
+5.2. MULTIMEDIA ELEMENTS
+
+Remaining the property of the developer, multimedia elements it contains, for example the name of the software or its associated logo may not be used without permission of the developer.
+
+
+5.3. MODIFICATIONS
+
+Only the normal use of the software, that is to say, according to technical restrictions, is allowed. Therefore, are prohibited :
+* The fact circumvent or attempt to circumvent any technical limitations in the software;
+* Reconstitute the software logic, decompile or disassemble.
+
+
+6. WARRANTIES
+
+The software is provided "as is". You acknowledge that it is likely to present risks associated with its use. There is no warranty as to the results that could provide the software. Similarly, the responsibility of the developer in no event be liable for any damage arising from the use of the software, including and not limited to loss of data.
+
+
+7. ACTION
+
+You acknowledge and agree that any dispute will be resolved before the French court jurisdiction.
+
+
+8. MODIFICATION OF THESE TERMS
+
+You acknowledge and agree that these conditions may have one or more modification(s) occur(s). However, it is possible to terminate the contract by ceasing to use the software.
+
+
+===== [ VERSION FRANCAISE ] =====
+
+AdwCleaner - CONDITIONS D'UTILISATION
+
+EN UTILISANT CE LOGICIEL, VOUS ACCEPTEZ LES TERMES DE CE CONTRAT. SI VOUS LES REFUSEZ, N'UTILISEZ PAS LE LOGICIEL.
+
+
+1. PARTIES : 
+
+Le présent contrat est conclu entre le développeur du logiciel, dit Xplode (ci-après dénommé le développeur), et tout utilisateur de ce logiciel, ou, à défaut de disposer de la capacité légale pour accepter le présent contrat, son représentant légal (ci-après dénommé l'utilisateur, vous).
+
+
+2. OBJET DU CONTRAT :
+
+Le présent contrat s'applique au logiciel ci-après dénommé AdwCleaner (le logiciel), téléchargé depuis le site toolslib.net, bleepingcomputer.com ou filepony.de. Il s'applique également aux mises à jour du logiciel, et à tout autre service connexe éventuel.
+
+
+3. DURÉE :
+
+Le présent contrat est conclu sans limitation de durée. Vous pouvez y mettre fin à tout moment en supprimant le logiciel. 
+
+
+4. DROITS D'UTILISATION :
+
+Le logiciel est fourni à titre gratuit, mais il demeure la propriété exclusive de son développeur. Par conséquent, tous les droits qui ne vous sont pas expressément octroyés dans le présent contrat restent de la compétence du développeur.
+
+
+4.1. INSTALLATION :
+
+Le présent contrat, si vous l'avez accepté, vous autorise à installer un nombre indéfini de copies du logiciel sur votre ou vos ordinateur(s).
+
+
+4.2. UTILISATION :
+
+Le logiciel étant conçu pour fonctionner d'une manière spécifique, vous devez vous conformer aux restrictions techniques imposées par celui-ci.
+
+
+4.3. ASSISTANCE TECHNIQUE :
+
+Il ne sera fourni aucun service d'assistance technique du fait de l'utilisation du logiciel.
+
+
+5. INTERDICTIONS :
+
+Sous réserve de dispositions contraires en vigueur dans votre pays, toute utilisation autre que celle prévu et autorisée dans les présentes conditions d'utilisation est interdite, en particulier :
+
+5.1. DISTRIBUTION, VENTE :
+
+Le logiciel est offert au téléchargement gratuitement sur les sites toolslib.net, bleepingcomputer.com et filepony.de. Toute copie du logiciel fournie par une autre source que celles désignées ci-dessus et sans l'autorisation expresse et écrite du développeur constitue une contrefaçon.
+En conséquence, il vous est interdit, notamment, de :
+* Publier le logiciel, y compris par le biais d'un tiers, sans l'autorisation du développeur.
+* Transférer le logiciel ou le présent contrat à un tiers.
+* Vendre, louer ou prêter le logiciel à un tiers.
+
+
+5.2. ÉLÉMENTS MULTIMÉDIAS :
+
+Le logiciel restant la propriété de son développeur, les éléments multimédias qu'il contient, par exemple la dénomination du logiciel ou le logo qui lui est associé, ne peuvent être utilisés sans l'autorisation du développeur.
+
+
+5.3. MODIFICATIONS :
+
+Seule l'utilisation normale du logiciel, c'est-à-dire conforme à ses restrictions techniques, est autorisée. Dès lors, sont interdits, notamment :
+* le fait de contourner, ou de tenter de contourner les restrictions techniques contenues dans le logiciel ;
+* Reconstituer la logique du logiciel, le décompiler ou le désassembler.
+
+
+6. GARANTIES :
+
+Le logiciel étant fourni "en l'état", vous reconnaissez qu'il est susceptible de présenter des risques liés à son utilisation. Il ne sera accordé aucune garantie quant aux résultats qui pourront être obtenus.
+De même, la responsabilité du développeur ne saurait en aucun cas être engagée en cas de dommage découlant de l'utilisation du logiciel, en ce compris et de façon non limitative la perte de données.
+
+
+7. LITIGE :
+
+Vous reconnaissez et acceptez que tout litige éventuel sera résolu devant la juridiction française compétente.
+
+
+8. MODIFICATION DES PRÉSENTES CONDITIONS :
+
+Vous reconnaissez et acceptez que les présentes conditions puissent faire l'objet d'une ou de plusieurs modification(s) ultérieure(s). Il vous sera néanmoins possible de mettre fin au contrat en cessant d'utiliser ce logiciel.

@@ -1,0 +1,4 @@
+Connection Alias: MyDB
+Host Name: localhost
+Port Number: 1521
+Service Name: ORCL

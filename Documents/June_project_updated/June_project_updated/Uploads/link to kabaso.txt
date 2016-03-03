@@ -1,0 +1,1 @@
+https://github.com/boniface/course/blob/master/src/test/java/course/repository/TestCrudCourse.java

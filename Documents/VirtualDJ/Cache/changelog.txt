@@ -1,0 +1,164 @@
+VDJ:BUILD 2441:
+-Auto_crossfade and video_transition can move to a specific location
+-Prelisten start position stored in config
+-Fix crash on endless recursion in browser
+-Fix deleting custom mapper
+-Fix loop_exit jumping to bad slipmode position when no loop was set and looproll mode was on
+-Fix mac crash when loading or analyzing a file with corrupt length tag
+-Fix mac showing certain notifications twice
+-Fix Cube and Satellite transition position off
+
+BUILD 2438:
+-Fix possible crash in skins using racks
+-Fix crash when generating a video edit by drag&drop
+-Fix possible audio encoder crash
+-Fix green videos when dxva is enabled on nVidia
+
+BUILD 2436:
+-Fix delay between sound and waveform after seeking in mastertempo quality 2 (#2425 regression)
+-Fix green on some videos with dxva
+-Fix possible analyzer crash
+-Fix unable to rename virtual folder with no files in it
+-Fix custom context menu crash
+-Fix detailed waveform colors slightly off and possible crash
+-Fix possible crash in sync action
+-Fix possible crash in Camera plugin
+-Fix video getting stuck in some cases when using loop roll with video enabled
+-Fix autogain not applied sometimes when using load & play in a single action
+-Fix action auto-complete preferring synonyms
+-Track Cleaner now correctly shows and prelistens modifications
+-Some performance optimizations
+
+BUILD 2425:
+-Fix regression causing reduced sound quality when mastertempo is disabled and pitchQuality is 2
+-Fix cue_stop crash (#2399 regression)
+-Improve scratch sound quality
+-Add videoCreateLinkOnDrop option
+-Fixed bug with removing items from file list when some items are still selected
+-Fix filter folder 'User 1 is text'
+-Improve use of colors in filter folders ('color=red' and 'color=255,0,0' both work)
+-Remember last path used for Copy To or Move To
+
+BUILD 2412:
+-15% performance improvement on launch speed
+-fix potential problem when upgrading to windows 10
+-Fix b2389 regression bug causing sound and waveform to get out of sync in some cases
+-fix for temporary cue preview when quantizeSetCue enabled
+-fix login window hidden behind config window on Mac
+-fix seeking in track edits for preview
+-Fix position shown in track cleaner
+
+BUILD 2398:
+-Master VU meter reflects master_balance
+-Fake Master no longer affects master volume
+-Fix video slideshow not progressing to next videos when duration is set to full
+-when controller is defined with 1x1 sample pads, the selected sample (sampler_select) is highlighted on the skin
+-cda audio track always reloaded to ensure correct file when inserting a new cd
+-new VDJScript command 'browsed_file_rename' to rename the currently selected file in the browser
+-new VDJScript command 'browsed_file_analyze' to (re)analyze the currently selected file(s) in the browser
+-new VDJScript command 'reanalyze' to reanalyze a file loaded on a deck
+-'No 3/4' option added to Loop Roll to skip the 3/4 loop roll when using the slider parameter
+-new setting quantizeLoop (VDJScript quantize_loop) adjusts loop positions to snap to a quantized grid position
+-new setting quantizeSetCue (VDJScript quantize_setcue) adjusts the setting of cue points to snap to a quantized grid position
+-setting smartCueQuantize renamed to globalQuantize
+-Fix incorrect aspect ratio on some wmv's
+-Fix potential crash in sound config window
+
+BUILD 2391:
+-Fix regression crash in b2389 with ScanBeat when seeking
+
+BUILD 2389:
+-Fix slideshow sometimes getting stuck on black image when removing an image
+-edit_singer fixed for custom browsers
+-loop_roll can now be used on videos as well (switch on in plugin settings, or using 'loop_roll video' action)
+-fixed loop action not always working correctly when loop size defined in milliseconds
+-Add video option to slicer (switch on in plugin settings, or using 'slicer video' action)
+-saveUnplayedToSidelist option will no longer add a track to the sidelist if it is already there
+-items in the sidelist can now be added to the automix list directly by using their context menu
+-fix potential crash in liveFeedback
+-prevent history file to grow too much when no internet connection
+-Performance improvement for track scan
+-Fix wasapi audio glitch at startup in some cases
+-Fix elastique glitch on first pitch change
+-Fix some potential noises when using pitch quality 2
+
+BUILD 2378:
+-Compatibility with windows 10
+-browser_sort '+bpm' fix
+-2-deck skin fix for rhythm wave left/right deck logic
+-Make effect GUI buttons more obvious when active
+-New video effect 'Shake'
+-New VDJScript command undo_load to unload the current track and reload the previous track
+-Fix possible crash after lost sound card is available again
+-autocue mode cue/skip silence added to skip silence when no cue is available
+-Fix rhythm wave not updated on left side when starting to load from middle of song
+-Fix green line when using dxva on some videos
+-Fix on screen keyboard not working correctly on windows 10
+-fix custom browser lists not updating correctly when switching from list to grid view
+-source="karaoke" added for filelist skin object
+-param_equal accepts 2 strings to compare query action with a string (example: param_equal "`get_browsed_song 'type'`" "audio")
+
+BUILD 2369:
+-Fix video fading during Glass and Grid transitions
+-Fix flicker at start of Shatter and Droplets transitions
+-fix search for upper-case russian characters
+-fix some possible automix lock issues
+-with splitHeadphones enabled, headphone volume controls both sides
+-Fix possible crash when a download is canceled
+-browser_sort '+bpm' can be correctly queried (for leds)
+-Fix effect list not showing up for LE mode
+-Skin drop zones follow draw order
+-Split headphones headphone channel is mono mix of headphone instead of only left channel
+-Fix some video samples not returning to start correctly
+-Fix lottery effect image list not resetting when selecting a new folder
+
+BUILD 2362:
+-Update chinese translation
+-faster sorting on usb/network drives
+-force content shown in search content unlimited folders even with filters active
+-New option autoSideview to have sampler_bank option switch sideview to sampler or not
+-Fix sample syncing with variable bpm tracks
+-fix bug in keyengine
+-Copy database info when copying a folder
+
+BUILD 2352:
+-Jog returns to wheel mode when loop disabled and it was in loop move mode
+-zero parameter for midi pitch slider definition
+-Escape binary characters in database xml to be compatible with external xml tools
+-Auto-generate video edit by dropping video file on video preview of audio file
+-Fix some old xvid video's not playing back correctly
+-browser_sort action accepts + in front of column name to force ascending sort
+-scratching on the skin allows backspins
+-New script command playlist_randomize_once that performs a 'Shuffle Once' on the playlist
+-Add file selector to iTunes database file setting
+-Fix Additive transition on Mac
+
+BUILD 2348:
+-Fix POI editor prelistening producing buzzing sound with loop set in seconds
+-Fix crash when adding file to automix twice from remote
+-Fix mic not included in headphones output when headphones mix is on
+-Touch wheel backward/forward spin threshold configurable
+-seek action stops before beginning and after end of track
+-Content Unlimited search folders always show results regardless of filters
+-Scrolling using jog wheel works similar to scrolling using browser_scroll
+
+BUILD 2345:
+-Fix sorting by last modified date
+-Fix problem writing mp3 id3v2.2 tags
+-Fix problem writing mp3 id3 tags when tag size needs to be increased
+-CDJ nexus colored waveform
+-revert default channel for midi out
+-add remix to file names when caching cu files
+-improve tag reading for cached cu files
+-get_deck_color "absolute" action added
+-fix possible click sound at end of automix
+-Fix problem writing id3 cover when tag needs to be increased in size
+-Track cleaner closes prelisten player on close so that song can be reloaded properly
+-fixed update popup appears behind config window (if open) on Mac
+-new video transition 'additive' which is useful for video fading with the volume faders
+-Fix possible deadlock while downloading
+-Save root in playlists to be more compatible with other programs
+-Fix netsearch audio files getting video icon sometimes when saving to cache
+-Global sampler focus for controllers with 2 sides but single sample controls (use "deck master sampler_loop +1" for example to use)
+-samplerVideoVolumeLink option added
+

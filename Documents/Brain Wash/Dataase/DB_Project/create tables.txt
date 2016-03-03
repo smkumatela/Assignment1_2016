@@ -1,0 +1,57 @@
+create table orders(
+	Order_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	Order_Date DATE,
+	Cust_No INT(6) UNSIGNED,
+	FOREIGN KEY (Cust_No) REFERENCES customers(Cust_No) ON DELETE CASCADE, 
+	Reference_No varchar(30) NOT NULL) ENGINE=INNODB; 
+
+
+create table orderline(
+ 	OL_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ 	Order_No INT(6) UNSIGNED,
+ 	item_no INT(6) UNSIGNED,
+ 	quantity int(11),
+ 	FOREIGN KEY (Order_No) 
+ 	REFERENCES orders(Order_No) ON DELETE CASCADE,
+ 	FOREIGN KEY (item_no) 
+ 	REFERENCES items(item_no) ON DELETE CASCADE)ENGINE=INNODB; 
+
+
+create table invoice(
+	Inv_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+ 	OL_No INT(6) UNSIGNED,
+ 	Total_Amount DOUBLE(7,2), 
+	FOREIGN KEY (OL_No) REFERENCES orderline(OL_No) ON DELETE CASCADE,
+ 	Inv_Date DATE) ENGINE=INNODB;
+
+create table delivery_invoice(
+	Del_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	Cust_No INT(6) UNSIGNED,
+	Inv_No INT(6) UNSIGNED,
+	Inv_Date Date,
+	FOREIGN KEY (Cust_No) 
+ 	REFERENCES customers(Cust_No) ON DELETE CASCADE,
+ 	FOREIGN KEY (Inv_No) 
+	REFERENCES invoice(Inv_No) ON DELETE CASCADE)ENGINE=INNODB; 
+
+create table customers(
+	Cust_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	Title varchar(30) NOT NULL,
+	Cust_Name varchar(30) NOT NULL,
+	Surname varchar(30) NOT NULL,
+	Address varchar(30) NOT NULL,
+	City varchar(30) NOT NULL,
+	Postal_Code int(11) NOT NULL,
+	Phone_Number varchar(30)  NOT NULL,
+	Email_Address varchar(30) NOT NULL,
+	Password varchar(30) NOT NULL) ENGINE=INNODB;
+
+CREATE TABLE items (
+	Item_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	item_name VARCHAR(30) NOT NULL,
+	Item_description VARCHAR(150) NOT NULL,
+	item_quantity INT(7),
+	item_price DOUBLE(7,2),
+	item_image VARCHAR(30)) ENGINE=INNODB;
+
+	

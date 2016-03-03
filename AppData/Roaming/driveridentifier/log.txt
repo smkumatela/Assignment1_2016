@@ -1,0 +1,782 @@
+
+2015-09-28 04:27:59 PM: Start scanning file with mode:online
+
+2015-09-28 04:27:59 PM: GetScanResult_V2
+
+2015-09-28 04:27:59 PM: System board:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: Motherboard resources:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: Motherboard resources:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: Microsoft ACPI-Compliant Control Method Battery:{72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: GetSetupRegSetting
+
+2015-09-28 04:27:59 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:27:59 PM: ST1000LM024 HN-M101MBB:{4d36e967-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: GetSetupRegSetting
+
+2015-09-28 04:27:59 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:27:59 PM: Root Print Queue:{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: GetSetupRegSetting
+
+2015-09-28 04:27:59 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:27:59 PM: Send To OneNote 2013:{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: GetSetupRegSetting
+
+2015-09-28 04:27:59 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:27:59 PM: Volume Manager:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 4 - 1E16:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:27:59 PM: GetSetupRegSetting
+
+2015-09-28 04:27:59 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:27:59 PM: Realtek High Definition Audio:{4d36e96c-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:27:59 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: WAN Miniport (PPPOE):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: High Definition Audio Controller:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: Microsoft Basic Display Driver:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: Generic volume:{71a27cdd-812a-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: ACPI Sleep Button:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: Intel(R) USB 3.0 eXtensible Host Controller - 0100 (Microsoft):{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: System CMOS/real time clock:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: ACPI Thermal Zone:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: ACPI Thermal Zone:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:00 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:00 PM: GetSetupRegSetting
+
+2015-09-28 04:28:00 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:00 PM: UMBus Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Standard SATA AHCI Controller:{4d36e96a-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Microsoft RRAS Root Enumerator:{62f9c741-b25a-46ce-b54c-9bccce08b6f2}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Microsoft Windows Management Interface for ACPI:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: WAN Miniport (PPTP):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Programmable interrupt controller:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: USB Root Hub (xHCI):{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: High precision event timer:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Lenovo pointing device:{4d36e96f-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Lenovo EasyCamera:{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: Intel(R) Management Engine Interface :{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:01 PM: WAN Miniport (IKEv2):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:01 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:01 PM: GetSetupRegSetting
+
+2015-09-28 04:28:01 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Composite Bus Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Microsoft Virtual Drive Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: MATSHITA DVD-RAM UJ8D1:{4d36e965-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: G:\:{eec5ad98-8080-425f-922a-dabf3de3f69a}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Microsoft Storage Spaces Controller:{4d36e97b-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Motherboard resources:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: Generic volume:{71a27cdd-812a-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: Microsoft Kernel Debug Network Adapter:{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: Microsoft XPS Document Writer:{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Generic volume shadow copy:{533c5b84-ec70-11d2-9505-00c04f79deaf}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: Generic volume shadow copy:{533c5b84-ec70-11d2-9505-00c04f79deaf}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 1 - 1E10:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Direct memory access controller:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: ACPI Lid:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Microsoft AC Adapter:{72631e54-78a4-11d0-bcf7-00aa00b7b32a}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: Intel(R) 7 Series/C216 Chipset Family SMBus Host Controller - 1E22:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:02 PM: 2nd Generation Intel(R) Core(TM) Processor Family DRAM Controller - 0104:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:02 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:02 PM: GetSetupRegSetting
+
+2015-09-28 04:28:02 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: Atheros AR8162/8166/8168 PCI-E Fast Ethernet Controller:{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: USB Mass Storage Device:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: UMBus Root Bus Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: Generic USB Hub:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: ACPI x64-based PC:{4d36e966-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: Generic volume:{71a27cdd-812a-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: WAN Miniport (Network Monitor):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: WAN Miniport (IP):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: PCI Express Root Complex:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: Unknown Device:
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:03 PM: AG CHROME ULTRA USB Device:{4d36e967-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:03 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:03 PM: GetSetupRegSetting
+
+2015-09-28 04:28:03 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: AG CHROME ULTRA USB Device:{4d36e967-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: USB Composite Device:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: Numeric data processor:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: Speakers (Realtek High Definition Audio):{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: Microsoft ACPI-Compliant System:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: Unknown Device:
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: Microsoft Basic Render Driver:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: Fax:{1ed2bbf9-11f0-4084-b21f-ad83a8e6dcdc}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: Multiple Card  Reader USB Device:{4d36e967-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:04 PM: WAN Miniport (SSTP):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:04 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:04 PM: GetSetupRegSetting
+
+2015-09-28 04:28:04 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: Intel(R) 7 Series/C216 Chipset Family PCI Express Root Port 2 - 1E12:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: Standard PS/2 Keyboard:{4d36e96b-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: Intel(R) HM70 Express Chipset LPC Controller - 1E5E:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: YunOS ACB Interface:{0c8e9016-5b23-4182-acfb-7c8db6d053c0}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: ACPI Fixed Feature Button:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: F:\:{eec5ad98-8080-425f-922a-dabf3de3f69a}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: USB Root Hub:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: Intel(R) 82802 Firmware Hub Device:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:05 PM: GetSetupRegSetting
+
+2015-09-28 04:28:05 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:05 PM: Intel(R) HD Graphics:{4d36e968-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:05 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: USB Mass Storage Device:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: Intel(R) Pentium(R) CPU B960 @ 2.20GHz:{50127dc3-0f36-415e-a6cc-4cb3be910b65}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: Intel(R) Pentium(R) CPU B960 @ 2.20GHz:{50127dc3-0f36-415e-a6cc-4cb3be910b65}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E2D:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: Microsoft Visual Studio Location Simulator Sensor:{5175d334-c371-4806-b3ba-71fd53c9258d}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: Microsoft ACPI-Compliant Embedded Controller:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: System timer:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:06 PM: NDIS Virtual Network Adapter Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:06 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:06 PM: GetSetupRegSetting
+
+2015-09-28 04:28:06 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Generic USB Hub:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Generic PnP Monitor:{4d36e96e-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Microphone (Realtek High Definition Audio):{c166523c-fe0c-4a94-a586-f1a80cfbbf3e}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Generic volume:{71a27cdd-812a-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: USB Composite Device:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Microsoft System Management BIOS Driver:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Motherboard resources:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: Intel(R) 7 Series/C216 Chipset Family USB Enhanced Host Controller - 1E26:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Generic volume:{71a27cdd-812a-11d0-bec7-08002be2092f}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: USB Root Hub:{36fc9e60-c465-11cf-8056-444553540000}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:07 PM: Plug and Play Software Device Enumerator:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:07 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:07 PM: GetSetupRegSetting
+
+2015-09-28 04:28:07 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:08 PM: Broadcom 802.11a Network Adapter:{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:08 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:08 PM: GetSetupRegSetting
+
+2015-09-28 04:28:08 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:08 PM: Remote Desktop Device Redirector Bus:{4d36e97d-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:08 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:08 PM: GetSetupRegSetting
+
+2015-09-28 04:28:08 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:08 PM: WAN Miniport (IPv6):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:08 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:08 PM: GetSetupRegSetting
+
+2015-09-28 04:28:08 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:08 PM: WAN Miniport (L2TP):{4d36e972-e325-11ce-bfc1-08002be10318}
+
+2015-09-28 04:28:08 PM: DONE GetDeviceProblemCode
+
+2015-09-28 04:28:08 PM: GetSetupRegSetting
+
+2015-09-28 04:28:08 PM: GetDriverPropertyFromRegistry
+
+2015-09-28 04:28:08 PM: Finishing getting drivers
+
+2015-09-28 04:28:08 PM: DONE WITH DRIVER
+
+2015-09-28 04:28:08 PM: Getting Hardware Info
+
+2015-09-28 04:28:08 PM: Getting Hardware Info - Computer Name
+
+2015-09-28 04:28:08 PM: Getting Hardware Info - Bios
+
+2015-09-28 04:28:09 PM: Getting Hardware Info - OSVERSION
+
+2015-09-28 04:28:09 PM: Getting Hardware Info - Memory Info
+
+2015-09-28 04:28:09 PM: Getting Hardware Info - Win32_ComputerSystemProduct
+
+2015-09-28 04:28:09 PM: Getting Hardware Info - Win32_ComputerSystem
+
+2015-09-28 04:28:09 PM: EncryptData
+
+2015-09-28 04:28:09 PM: Unload frmWait
+
+2015-09-28 04:28:09 PM: TemplateReplace
+
+2015-09-28 04:28:09 PM: GetHWSerial
+
+2015-09-28 04:28:09 PM: GetHWSerial DONE
+
+2015-09-28 04:28:09 PM: GetProcessList
+
+2015-09-28 04:28:15 PM: Saving Temp file
+
+2015-09-28 04:28:16 PM: Openlink
+
+2015-09-28 04:28:16 PM: Openlink DONE
+
+2015-09-28 04:28:16 PM: vbMinimized DONE

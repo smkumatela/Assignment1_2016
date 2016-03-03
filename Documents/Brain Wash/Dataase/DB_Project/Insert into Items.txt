@@ -1,0 +1,37 @@
+
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('alien_force','black and green alien force training shoe',35,100,'alien_force.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('boyJersey','green and yellow jersey',23,60,'boyJersey.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('boypant','aqua boy pant',30,23,'boypant.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('girl','red and white shoes',35,23,'girl.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('short','check short',23,55,'check.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('denimShirt','blue denim shirt',23,44,'denimShirt.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('girls_jeans','blue dirty jean',23,100,'girls_jeans.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('girls takkies','pink and white training shoe',23,75,'girly.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('hood shirt','check hood shirt',23,65,'hoodshirt.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('t-shirt','pink t-shirt',10,45,'pink.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('All Star','Black and white all star with blue laces',5,299,'all_star.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Bojwang','Blue and yellow bojwang',2,45,'bojwang.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Boys shoe','Brown boys shoes',5,78,'boys.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Girly pant','Grey girly pant with frill',5,59,'fashion.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Girl shoe','Red and white girl shoe',5,70,'girl.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Girls jersey','Pink girls jersey',5,75,'girlsjesey.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Golf-T','Boys aqua golf T',5,88,'golfT.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Girls pants','Purple girls pants',5,120,'gpants.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Boy short','Green boys short',5,75,'greenboy.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Boys jean short','Sprayed boys jean short',5,130,'jeanboy.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Girls t-shirt','Pink girls t-shirt',5,45,'pink.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('G t-shirt','Girls purple t-shirt',5,55,'police.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Ready to play t-shirt', 'Maroon ready to play girls t-shirt',5,45,'readytoplay.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Sounda','Pink sounda',5,100,'sounda.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Three layer','Red and white three layer dress',5,99,'threelayer.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Top','Girls dotted top',5,89,'top.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Green dress', 'Green long dress',5,78,'greendress.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Light blue dress','Long light blue dress',5,100,'lightblue.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Pink dress','Pink long dress',5,108,'pinkdress.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Three layered dress','Blue three layered dress',5,110,'threelayerdress.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('White dress','Short white dress',5,100,'whiteDress.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Ladies Cadigan','Short Sleves cadigan',10,75,'Ladies Cadigan.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Poor Boy Cap','Cap with a belt behind',7,50,'Poor Boy Cap.jpg');
+insert into items (item_name,item_description,item_quantity,item_price,item_image) values ('Coat','slim fit coat',15,150,'slim fit coat.jpg');
+
+

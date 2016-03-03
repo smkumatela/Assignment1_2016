@@ -1,0 +1,11 @@
+- Different kinds of people have different kinds of perception about the concept of “Quality”, particularly developers, users and management.
+
+- Quality, according to the point of sales involves ease of use, performance and the security
+
+- Quality planning is important and the other important thing is considering quantity over quality
+
+- The people who are managing the project are the ones who are responsible for the quality of the end product.
+
+- What leads to poor quality is not going through quality planning
+
+- The quality is not about how manny products you have produced but how good is the quality of the least products produced  

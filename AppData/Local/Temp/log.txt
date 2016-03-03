@@ -1,0 +1,7 @@
+http://track.backupgrid.net/?partner_id=1&hash=6374ccd4&tid=za_ch_8.1_100&dl=MyPCBackup_ppi_Setup.exe
+BrandedCreate not specified: ERROR
+Policy link not spoecified
+silent uninstall not specified
+branded popups not specified
+popup_delay not specified
+EXTENDED_POLICY not specified

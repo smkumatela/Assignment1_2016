@@ -1,0 +1,78 @@
+DROP TABLE flight   CASCADE CONSTRAINTS;
+DROP TABLE client   CASCADE CONSTRAINTS;
+DROP TABLE booking  CASCADE CONSTRAINTS;
+DROP TABLE dicount  CASCADE CONSTRAINTS;
+
+create table flight (
+  fl_nr       	varchar2(7),  
+  dep_date  	date,
+  city_from	varchar2(20),
+  city_to	varchar2(20),
+  price		number(7,2),
+  seats_avail	number(3),
+  constraint flight_pk primary key (fl_nr, dep_date));		
+
+
+create table client (
+  cl_nr         number(5)  constraint cl_pk primary key,
+  fname   	varchar2(20),
+  lname   	varchar2(20),
+  address  	varchar2(40),
+  tel_nr    	varchar2(13)  
+  );		
+
+create table booking (
+  bk_nr       	number(5)  constraint reservation_pk primary key,
+  fl_nr  	varchar2(7),
+  dep_date  	date,
+  seats_bkd	number(3),
+  cl_nr	        number(5),
+  price	        number(9,2),	 	
+  constraint flight_book_fk foreign key (fl_nr, dep_date) references flight(fl_nr, dep_date),
+  constraint client_book_fk foreign key (cl_nr) references client (cl_nr));			
+
+create table discount (
+  disc_seats   	number(3) primary key,
+  disc_perc  	number(4,2));
+
+
+create sequence booking_nr_seq
+increment by 1
+start with 1;
+
+INSERT INTO client VALUES (100,'King', 'Steven', '1 Church Str, Cape Town','021-111111');
+INSERT INTO client VALUES (101,'Kochcar', 'Neena', '2 Church Str, Cape Town', '021-111112');
+INSeRT INTO client VALUES (102,'De Haan', 'Lex', '3 Church Str, Cape Town', '021-122111');
+INSERT INTO client VALUES (103,'Hunold', 'Alexander', '10 Church Str, Cape Town', '021-9991111');
+INSERT INTO client VALUES (104,'Ernst', 'Bruce', '15 Church Str, Cape Town', '021-1100991');
+
+INSERT INTO flight VALUES 
+  ( 'KL1257','01-APR-2007', 'Cape Town', 'Munich', 6200.00, 230);
+INSERT INTO flight VALUES 
+  ( 'KL1257','03-APR-2007', 'Cape Town', 'Munich', 6000.00, 230);
+INSERT INTO flight VALUES 
+  ( 'KL1257','08-APR-2007', 'Cape Town', 'Munich', 6000.00, 230);
+INSERT INTO flight VALUES 
+  ( 'KL1257','10-APR-2007', 'Cape Town', 'Munich' , 5700.00, 230);
+INSERT INTO flight VALUES 
+  ( 'KL1257','15-APR-2007', 'Cape Town', 'Munich', 6000.00 , 230);
+INSERT INTO flight VALUES 
+  ( 'KL1257','17-APR-2007', 'Cape Town', 'Munich', 5700.00, 230);
+INSERT INTO flight VALUES 
+  ( 'BA1729','01-APR-2007', 'Cape Town', 'London', 7200.00, 280);
+INSERT INTO flight VALUES 
+  ( 'BA1729','06-APR-2007', 'Cape Town', 'London', 6800.00 , 280);
+INSERT INTO flight VALUES 
+  ( 'BA1729','08-APR-2007', 'Cape Town', 'London', 7500.00 , 280);
+INSERT INTO flight VALUES 
+( 'BA1729','13-JUN-2003', 'Cape Town', 'London', 7000.00 , 280);
+
+INSERT INTO discount VALUES (10, 15);
+INSERT INTO discount VALUES (20, 20);
+INSERT INTO discount VALUES (30, 25);
+
+INSERT INTO booking VALUES (booking_nr_seq.nextval, 'BA1729','13-JUN-2003', 2, 100, 7000.00 );
+INSERT INTO booking VALUES (booking_nr_seq.nextval, 'KL1257','15-APR-2007', 3, 100, 6500.00 );
+INSERT INTO booking VALUES (booking_nr_seq.nextval, 'BA1729','13-JUN-2003', 2, 101, 7000.00 );
+INSERT INTO booking VALUES (booking_nr_seq.nextval, 'KL1257','15-APR-2007', 3, 101, 6500.00 );
+commit;

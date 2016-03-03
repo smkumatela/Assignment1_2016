@@ -1,0 +1,51 @@
+DATABASE
+Create database shopping_cart;
+
+customers TABLE
+create table customers(
+	Cust_No INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+	Title varchar(30) NOT NULL,
+	Cust_Name varchar(30) NOT NULL,
+	Surname varchar(30) NOT NULL,
+	Address varchar(30) NOT NULL,
+	City varchar(30) NOT NULL,
+	Postal_Code int(11) NOT NULL,
+	Phone_Number varchar(30)  NOT NULL,
+	Email_Address varchar(30) NOT NULL,
+	Password varchar(30) NOT NULL) ENGINE=INNODB;
+
+insert into customers(Title,Cust_Name,Cust_Name,Address,City,Postal_Code,Phone_Number,Email_Address,Password) values ('Ms','Andisiwe','Peter','Loop street','Cape Town',8001,'0217877990','andisiwep@gmail.com','1111');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Avela', 'Kobobo', 'Long street', 'Cape Town', 8001,'0217877999', 'kobobo@gmail.com', '2222');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Tiego', 'Mathobela', 'Darling street', 'Cape Town', 8001,'0217877998', 'mathobela@gmail.com', '3333');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Yongama', 'Ngwenduma', 'Whale street', 'Cape Town', 8001,'0217877997', 'ngwenduma@gmail.com', '4444');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Aphiwe', 'Blom', 'Zonnebloem street', 'Cape Town', 8001,'0217877980', 'blom@gmail.com', '5555');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Ayabonga', 'Joyi', 'kloof street', 'Cape Town', 8001,'0217877970', 'joyi@gmail.com', '6666');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Esona', 'Dotwana', 'Adderley street', 'Cape Town', 8001,'0217877910', 'dotwana@gmail.com', '7777');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Sputando', 'Sompeta', 'Caledon street', 'Cape Town', 8001,'0217877920', 'sompeta@gmail.com', '8888');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Thule', 'Hadebe', 'Parliament street', 'Cape Town', 8001,'0217877940', 'hadebe@gmail.com', '9999');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Songezo', 'Mkumatela', 'Strand street', 'Cape Town', 8001,'0217877960', 'mkumatela@gmail.com', '1001');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Portia', 'Njolwana', 'Upper Long street', 'Cape Town', 8001,'0217877660', 'njolwana@gmail.com', '1002');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Thobeka', 'Skefile', 'Hope street', 'Cape Town', 8001,'0217877770', 'andisiwep@gmail.com', '1003');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Pumela', 'Rani', 'Roeland street', 'Cape Town', 8001,'0217877550', 'rani@gmail.com', '1004');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Sive', 'Ntsini', 'Constitution street', 'Cape Town', 8001,'0217877440', 'ntsini@gmail.com', '1005');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Siphe', 'Twani', 'Cunterbury street', 'Cape Town', 8001,'0217877110', 'twani@gmail.com', '1006');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Edna', 'Molewa', 'Loop street', 'Cape Town', 8001,'0217877120', 'molewa@gmail.com', '1007');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Sipokaz', 'May', 'Kloof street', 'Cape Town', 8001,'0217877890', 'may@gmail.com', '1008');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Ana', 'Vho', 'Long street', 'Cape Town', 8001,'0217877540', 'vho@gmail.com', '1009');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Debbie', 'Phiri', 'Long Market street', 'Cape Town', 8001,'0217877380', 'phiri@gmail.com', '1010');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Noluvo', 'Dyasi', 'Loop street', 'Cape Town', 8001,'0217877234', 'dyasi@gmail.com', '1011');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Andy', 'Pet', 'Long street', 'Cape Town', 8001,'0217877123', 'pet@gmail.com', '1012');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Tee', 'Mat', 'Mount street', 'Cape Town', 8001,'0217877940', 'mat@gmail.com', '1113');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Yongz', 'Yora', 'Plein street', 'Cape Town', 8001,'0217877450', 'andisiwep@gmail.com', '1014');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Sapho', 'Nofemela', 'Plein street', 'Cape Town', 8001,'0217877768', 'nofemela@gmail.com', '1015');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Zizibele', 'Namntu', 'Hope street', 'Cape Town', 8001,'0217877980', 'namntu@gmail.com', '1016');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Andies', 'Yaya', 'Loop street', 'Cape Town', 8001,'0217877410', 'yaya@gmail.com', '1017');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Yamkela', 'Yash', 'Whale street', 'Cape Town', 8001,'0217877330', 'yash@gmail.com', '1018');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Siphe', 'Khaya', 'Darling street', 'Cape Town', 8001,'0217877140', 'khaya@gmail.com', '1019');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Athi', 'Ntenda', 'Adderley street', 'Cape Town', 8001,'0217877550', 'ntenda@gmail.com', '1020');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Avee', 'Kobs', 'Lower Plein street', 'Cape Town', 8001,'0217877440', 'kobs@gmail.com', '1021');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Ms', 'Khanya', 'Ukho', 'Caledon street', 'Cape Town', 8001,'0217877510', 'ukho@gmail.com', '1022');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Camagu', 'Ca', 'Cats street', 'Cape Town', 8001,'0217877665', 'ca@gmail.com', '1023');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Miss', 'Nomzi', 'Kata', 'Parklands', 'Kwandaba', 8011,'0217877496', 'kataN@gmail.com', '1025');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mr', 'Dlidli', 'Mlisto', 'Cuba', 'Qunu', 4960,'04717877496', 'dlisto@gmail.com', '2020');
+insert into customers(Title, Cust_Name, Surname, Address, City, Postal_Code, Phone_Number, Email_Address, Password) values('Mrs', 'Duba', 'Likho', 'Mchuya', 'Sbhathini', 4969,'04717127496', 'dubaL@gmail.com', '5020');

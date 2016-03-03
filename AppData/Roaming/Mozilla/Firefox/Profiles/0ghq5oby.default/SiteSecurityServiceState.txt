@@ -1,0 +1,7 @@
+stats.g.doubleclick.net:HSTS	0	16637	1448354425954,1,0
+services.addons.mozilla.org:HSTS	1	16637	1469004273228,1,0
+www.facebook.com:HSTS	1	16637	1453020033370,1,0
+apis.google.com:HSTS	0	16625	1447333912523,1,0
+toolslib.net:HSTS	0	16637	1469029185983,1,0
+blocklist.addons.mozilla.org:HSTS	1	16637	1469004385907,1,0
+analytics.general-changelog-team.fr:HSTS	0	16637	1469029180167,1,0

@@ -1,0 +1,18 @@
+---------------
+Install Notes:-
+---------------
+
+1. Install WinRAR 5.10 Final.
+2. Now copy paste the rarreg.key file in default installation directory.
+   (C:\Program Files\WinRAR)
+3. Done, Enjoy...
+
+If you like my work don't forget to say Thanks!
+
+www.Softfreakz.com
+
+Follow Us on Facebook,Twitter,Google+ and Join our site.
+
+Please support us just by clicking on ads to continue our work.
+
+                        ***Thank You***

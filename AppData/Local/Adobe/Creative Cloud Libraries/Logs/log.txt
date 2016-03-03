@@ -1,0 +1,498 @@
+Sat Oct 10 2015 13:13:26 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Sat Oct 10 2015 13:13:30 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) Service: Listening on port: 61728
+Sat Oct 10 2015 13:13:32 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Sat Oct 10 2015 13:13:35 GMT+0200 (South Africa Standard Time) ProductBridge: Error: ENOENT, open 'C:\Users\Songezo\AppData\Roaming\Adobe\Creative Cloud Libraries\LIBS\librarylookupfile.TEMP_67d2c768-46b7-4955-a5be-26595ae1e25d'
+Sat Oct 10 2015 13:13:47 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Oct 12 2015 09:12:16 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Mon Oct 12 2015 09:12:20 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Tue Oct 13 2015 00:23:33 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 13 2015 00:23:38 GMT+0200 (South Africa Standard Time) File Sync State: disconnected
+Tue Oct 13 2015 00:23:39 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.ManifestNotification
+Tue Oct 13 2015 00:23:39 GMT+0200 (South Africa Standard Time) Changed: /assets/adobe-libraries/e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e/manifest
+Tue Oct 13 2015 00:23:40 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Tue Oct 13 2015 00:23:43 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 13 2015 00:23:43 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 13 2015 00:23:43 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 13 2015 00:23:43 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 13 2015 00:23:45 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 13 2015 00:23:45 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 13 2015 00:24:09 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- tunneling socket could not be established, cause=connect ETIMEDOUT
+Tue Oct 13 2015 00:24:09 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Tue Oct 13 2015 00:26:06 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 13 2015 00:26:06 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 13 2015 14:03:00 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Tue Oct 13 2015 14:03:02 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Tue Oct 13 2015 14:03:02 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 13 2015 14:03:03 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) Service: Listening on port: 55930
+Tue Oct 13 2015 14:03:04 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Tue Oct 13 2015 14:03:06 GMT+0200 (South Africa Standard Time) ProductBridge: Error: ENOENT, open 'C:\Users\Songezo\AppData\Roaming\Adobe\Creative Cloud Libraries\LIBS\librarylookupfile.TEMP_239a2c2b-1701-4db1-81b8-d076d4c14119'
+Tue Oct 13 2015 14:03:08 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=1556
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Tue Oct 13 2015 14:03:10 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Tue Oct 13 2015 14:13:10 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Wed Oct 14 2015 13:38:06 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Wed Oct 14 2015 13:38:11 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Thu Oct 15 2015 13:35:34 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Thu Oct 15 2015 13:35:51 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Fri Oct 16 2015 10:16:28 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Fri Oct 16 2015 10:16:29 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Fri Oct 16 2015 10:16:29 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Fri Oct 16 2015 10:16:30 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) Service: Listening on port: 13434
+Fri Oct 16 2015 10:16:31 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Fri Oct 16 2015 10:16:34 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Fri Oct 16 2015 10:16:38 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Fri Oct 16 2015 10:16:39 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=1107
+Fri Oct 16 2015 10:16:39 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Fri Oct 16 2015 10:26:34 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Fri Oct 16 2015 21:57:56 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) File Sync State: disconnected
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.ManifestNotification
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) Changed: /assets/adobe-libraries/e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e/manifest
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Fri Oct 16 2015 21:57:57 GMT+0200 (South Africa Standard Time) File Sync State: error
+Fri Oct 16 2015 21:57:58 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Fri Oct 16 2015 21:57:58 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Fri Oct 16 2015 21:58:18 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- tunneling socket could not be established, cause=connect ETIMEDOUT
+Fri Oct 16 2015 21:58:18 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Fri Oct 16 2015 22:03:11 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Fri Oct 16 2015 22:03:11 GMT+0200 (South Africa Standard Time) File Sync State: error
+Sat Oct 17 2015 11:36:00 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Sat Oct 17 2015 11:36:00 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Oct 19 2015 09:31:35 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Mon Oct 19 2015 09:31:37 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Oct 19 2015 21:03:46 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 19 2015 21:03:48 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Oct 19 2015 21:04:41 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.ProxySettingsChanged
+Mon Oct 19 2015 21:04:47 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Mon Oct 19 2015 21:04:47 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Mon Oct 19 2015 21:04:49 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Unloaded
+Mon Oct 19 2015 21:04:49 GMT+0200 (South Africa Standard Time) ProductBridge: Deleting lookup file
+Mon Oct 19 2015 21:04:50 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file deleted
+Mon Oct 19 2015 21:04:50 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesUnloaded
+Mon Oct 19 2015 21:04:52 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Mon Oct 19 2015 21:04:52 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Mon Oct 19 2015 21:04:52 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Mon Oct 19 2015 21:04:52 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Mon Oct 19 2015 21:04:52 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Mon Oct 19 2015 21:04:53 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Mon Oct 19 2015 21:04:53 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Mon Oct 19 2015 21:04:53 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Mon Oct 19 2015 21:04:54 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Mon Oct 19 2015 21:04:54 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Mon Oct 19 2015 21:04:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Mon Oct 19 2015 21:05:08 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Mon Oct 19 2015 21:05:08 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Oct 19 2015 21:05:16 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- tunneling socket could not be established, cause=connect ETIMEDOUT
+Mon Oct 19 2015 21:05:16 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Oct 19 2015 21:06:59 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 19 2015 21:06:59 GMT+0200 (South Africa Standard Time) File Sync State: error
+Mon Oct 19 2015 21:14:55 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Mon Oct 19 2015 22:04:55 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 19 2015 22:04:55 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Oct 19 2015 22:06:45 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 19 2015 22:06:45 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 20 2015 18:36:41 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 18:36:41 GMT+0200 (South Africa Standard Time) File Sync State: disconnected
+Tue Oct 20 2015 18:36:41 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.ManifestNotification
+Tue Oct 20 2015 18:36:41 GMT+0200 (South Africa Standard Time) Changed: /assets/adobe-libraries/e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e/manifest
+Tue Oct 20 2015 18:36:41 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Tue Oct 20 2015 18:36:42 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 18:36:42 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 20 2015 18:36:42 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 18:36:42 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 20 2015 18:36:43 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 18:36:43 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 20 2015 18:37:03 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- tunneling socket could not be established, cause=connect ETIMEDOUT
+Tue Oct 20 2015 18:37:03 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Tue Oct 20 2015 18:39:56 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 18:39:56 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 20 2015 21:53:32 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 21:53:32 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 20 2015 21:56:00 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 20 2015 21:56:00 GMT+0200 (South Africa Standard Time) File Sync State: error
+Wed Oct 21 2015 08:24:01 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Wed Oct 21 2015 08:24:01 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Wed Oct 21 2015 08:26:35 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Wed Oct 21 2015 08:26:35 GMT+0200 (South Africa Standard Time) File Sync State: error
+Wed Oct 21 2015 08:53:58 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Wed Oct 21 2015 08:53:58 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Wed Oct 21 2015 08:57:42 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Wed Oct 21 2015 08:57:42 GMT+0200 (South Africa Standard Time) File Sync State: error
+Thu Oct 22 2015 20:43:23 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Thu Oct 22 2015 20:43:27 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Thu Oct 22 2015 20:43:27 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Thu Oct 22 2015 20:43:27 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Service: Listening on port: 63198
+Thu Oct 22 2015 20:43:28 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Thu Oct 22 2015 20:43:34 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Thu Oct 22 2015 20:43:34 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Thu Oct 22 2015 20:43:38 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Thu Oct 22 2015 20:43:45 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Thu Oct 22 2015 20:43:50 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=4887
+Thu Oct 22 2015 20:43:50 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Thu Oct 22 2015 20:45:01 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Thu Oct 22 2015 20:45:01 GMT+0200 (South Africa Standard Time) File Sync State: error
+Thu Oct 22 2015 20:53:38 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Thu Oct 22 2015 22:11:43 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Thu Oct 22 2015 22:11:43 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Thu Oct 22 2015 22:24:01 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Thu Oct 22 2015 22:24:01 GMT+0200 (South Africa Standard Time) File Sync State: error
+Sat Oct 24 2015 12:39:21 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Sat Oct 24 2015 12:39:21 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Sat Oct 24 2015 12:48:53 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Sat Oct 24 2015 12:48:55 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Sat Oct 24 2015 12:48:55 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Sat Oct 24 2015 12:48:56 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) Service: Listening on port: 20679
+Sat Oct 24 2015 12:48:57 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Sat Oct 24 2015 12:49:02 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Sat Oct 24 2015 12:49:05 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Sat Oct 24 2015 12:49:07 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=1668
+Sat Oct 24 2015 12:49:07 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Sat Oct 24 2015 12:59:02 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Mon Oct 26 2015 09:27:06 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Mon Oct 26 2015 09:27:07 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Oct 26 2015 15:16:35 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 26 2015 15:16:35 GMT+0200 (South Africa Standard Time) File Sync State: disconnected
+Mon Oct 26 2015 15:16:36 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.ManifestNotification
+Mon Oct 26 2015 15:16:36 GMT+0200 (South Africa Standard Time) Changed: /assets/adobe-libraries/e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e/manifest
+Mon Oct 26 2015 15:16:36 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Mon Oct 26 2015 15:16:37 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 26 2015 15:16:37 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Oct 26 2015 15:16:37 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 26 2015 15:16:37 GMT+0200 (South Africa Standard Time) File Sync State: error
+Mon Oct 26 2015 15:16:38 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 26 2015 15:16:38 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Oct 26 2015 15:16:58 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- tunneling socket could not be established, cause=connect ETIMEDOUT
+Mon Oct 26 2015 15:16:58 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Oct 26 2015 15:18:33 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Oct 26 2015 15:18:33 GMT+0200 (South Africa Standard Time) File Sync State: error
+Tue Oct 27 2015 09:17:51 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 27 2015 09:17:51 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Tue Oct 27 2015 09:25:08 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Tue Oct 27 2015 09:25:08 GMT+0200 (South Africa Standard Time) File Sync State: error
+Fri Oct 30 2015 12:16:40 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Fri Oct 30 2015 12:16:40 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Nov 02 2015 10:00:58 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Mon Nov 02 2015 10:01:02 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Mon Nov 02 2015 10:56:40 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Nov 02 2015 10:56:42 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) Service: Listening on port: 33374
+Mon Nov 02 2015 10:56:43 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Mon Nov 02 2015 10:56:54 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Mon Nov 02 2015 10:56:54 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Mon Nov 02 2015 10:56:54 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Mon Nov 02 2015 10:56:54 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Mon Nov 02 2015 10:56:54 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Mon Nov 02 2015 10:56:55 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Mon Nov 02 2015 10:56:58 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Nov 02 2015 10:57:03 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=4996
+Mon Nov 02 2015 10:57:03 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Nov 02 2015 11:06:55 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Mon Nov 02 2015 11:26:49 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Mon Nov 02 2015 11:26:50 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Mon Nov 02 2015 11:26:50 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Service: Listening on port: 27809
+Mon Nov 02 2015 11:26:51 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Mon Nov 02 2015 11:26:54 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Mon Nov 02 2015 11:26:57 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Nov 02 2015 11:27:00 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=2258
+Mon Nov 02 2015 11:27:00 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Nov 02 2015 11:36:54 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file
+Wed Nov 04 2015 11:02:03 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.accc.app.UpdateActiveCloud
+Wed Nov 04 2015 11:02:03 GMT+0200 (South Africa Standard Time) Service: Active cloud the same as already loaded
+Fri Nov 13 2015 13:20:36 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Fri Nov 13 2015 13:20:39 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Fri Nov 13 2015 13:20:39 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Fri Nov 13 2015 13:20:39 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS *: accc.app.ProxySettingsRequest
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: accc.app.ProxySettingsResponse
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Fri Nov 13 2015 13:20:40 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Fri Nov 13 2015 13:20:41 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Fri Nov 13 2015 13:20:41 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Fri Nov 13 2015 13:20:41 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Fri Nov 13 2015 13:20:41 GMT+0200 (South Africa Standard Time) Service: Listening on port: 41737
+Fri Nov 13 2015 13:20:41 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) IMS: Successfully obtained access token
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: false
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) CC Libraries: Tunneling through system proxy: 10.47.2.250:3128
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Vulcan: -> ADCS 1.9.0: accc.app.GetActiveCloudRequest
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Vulcan: <- ADCS 2.3.0: any.app.GetActiveCloudResponse
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Fri Nov 13 2015 13:20:49 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Fri Nov 13 2015 13:20:57 GMT+0200 (South Africa Standard Time) CC Libraries: Started pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Fri Nov 13 2015 13:21:03 GMT+0200 (South Africa Standard Time) CC Libraries: Finished pulling: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e duration=6096
+Fri Nov 13 2015 13:21:03 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Nov 16 2015 17:10:31 GMT+0200 (South Africa Standard Time) IMS: Loading IMS Library...
+Mon Nov 16 2015 17:10:33 GMT+0200 (South Africa Standard Time) IMS: IMS Library Successfully Loaded
+Mon Nov 16 2015 17:10:33 GMT+0200 (South Africa Standard Time) Vulcan: Loading Vulcan Library...
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Vulcan: Vulcan Library Successfully Loaded
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) CC Libraries: Configure: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Vulcan: -> COSY *: DesignLibPlugin.QueryFileSyncStateRequest
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) IMS: Default User: 2leradebe@gmail.com (D6280977535D86690A490D4D@AdobeID)
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.QueryFileSyncStateResponse
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) File Sync State: normal
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Service: Version: 2.2.12 (protocol version = 7)
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Service: Environment: Production
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Service: Root: C:/Users/Songezo/AppData/Roaming/Adobe/Creative Cloud Libraries/LIBS/
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Service: Listening on port: 11211
+Mon Nov 16 2015 17:10:34 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.Initialized
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) IMS: IMSError: [HTTPFAILURE] Error returned if http request fails.
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) Service: cc_private entitlement: undefined
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) Service: Loading collection for active cloud: undefined
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) Service: Load library collection: {"USER_ID":"D6280977535D86690A490D4D@AdobeID","STORAGE_HOSTNAME":"cc-api-storage.adobe.io","CLOUD_INFO":{"switchingEnabled":false}}
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) IMS: Started IMSLib.fetchAccessToken
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) CC Libraries: Loaded 1 libraries and 0 pending deletes
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) CC Libraries: Start Sync 
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Library Changed - Remote: e3fcece9-2b4e-4817-b54d-aa0ba9c48c4e
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Reading lookup file
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Collections Loaded
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file read
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Saving lookup file
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) Vulcan: -> BROADCAST: cclibraries.service.LibrariesLoaded
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup file saved
+Mon Nov 16 2015 17:10:46 GMT+0200 (South Africa Standard Time) ProductBridge: Lookup library count: 1
+Mon Nov 16 2015 17:10:58 GMT+0200 (South Africa Standard Time) CC Libraries: Sync error: [NETWORK_ERROR] error connecting to server
+<- [NETWORK_ERROR] Error retrieving a collection
+<- getaddrinfo ENOTFOUND
+Mon Nov 16 2015 17:10:58 GMT+0200 (South Africa Standard Time) CC Libraries: End Sync
+Mon Nov 16 2015 17:10:58 GMT+0200 (South Africa Standard Time) IMS: Finished IMSLib.fetchAccessToken
+Mon Nov 16 2015 17:10:58 GMT+0200 (South Africa Standard Time) IMS: IMSError: [HTTPFAILURE] Error returned if http request fails.
+Mon Nov 16 2015 17:11:26 GMT+0200 (South Africa Standard Time) Vulcan: <- COSY 1.4: DesignLib.FileSyncStateNotification
+Mon Nov 16 2015 17:11:26 GMT+0200 (South Africa Standard Time) File Sync State: error
+Mon Nov 16 2015 17:20:46 GMT+0200 (South Africa Standard Time) ProductBridge: Released lookup file

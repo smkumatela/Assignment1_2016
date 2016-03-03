@@ -1,0 +1,637 @@
+﻿2016-02-09 15:01:10.751   Log opened. (Time zone: UTC+02:00)
+2016-02-09 15:01:10.751   Setup version: Inno Setup version 5.5.8 (u)
+2016-02-09 15:01:10.751   Original Setup EXE: C:\Users\Songezo\Downloads\Programs\SHAREitLENOVOSUPPORT_3.3.0.658.exe
+2016-02-09 15:01:10.751   Setup command line: /SL5="$B0706,4468926,484864,C:\Users\Songezo\Downloads\Programs\SHAREitLENOVOSUPPORT_3.3.0.658.exe" /SPAWNWND=$110784 /NOTIFYWND=$B07E6 
+2016-02-09 15:01:10.751   Windows version: 6.3.9600  (NT platform: Yes)
+2016-02-09 15:01:10.751   64-bit Windows: Yes
+2016-02-09 15:01:10.751   Processor architecture: x64
+2016-02-09 15:01:10.751   User privileges: Administrative
+2016-02-09 15:01:10.751   64-bit install mode: No
+2016-02-09 15:01:10.766   Created temporary directory: C:\Users\Songezo\AppData\Local\Temp\is-DUHJJ.tmp
+2016-02-09 15:01:11.095   Current version: 3.3.0.658
+2016-02-09 15:01:11.955   Extracting temporary file: C:\Users\Songezo\AppData\Local\Temp\is-DUHJJ.tmp\normal.bmp
+2016-02-09 15:01:19.708   Starting the installation process.
+2016-02-09 15:01:19.724   Creating directory: C:\Program Files (x86)\SHAREit
+2016-02-09 15:01:19.724   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit
+2016-02-09 15:01:19.724   Directory for uninstall files: C:\Program Files (x86)\SHAREit\SHAREit
+2016-02-09 15:01:19.724   Creating new uninstall log: C:\Program Files (x86)\SHAREit\SHAREit\unins000.dat
+2016-02-09 15:01:19.724   -- File entry --
+2016-02-09 15:01:19.724   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\unins000.exe
+2016-02-09 15:01:19.787   Time stamp of our file: 2016-02-09 15:01:10.579
+2016-02-09 15:01:19.787   Installing the file.
+2016-02-09 15:01:19.802   Uninstaller requires administrator: Yes
+2016-02-09 15:01:20.111   Successfully installed the file.
+2016-02-09 15:01:20.111   -- File entry --
+2016-02-09 15:01:20.111   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\GalaSoft.MvvmLight.dll
+2016-02-09 15:01:20.111   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.111   Installing the file.
+2016-02-09 15:01:20.271   Successfully installed the file.
+2016-02-09 15:01:20.271   -- File entry --
+2016-02-09 15:01:20.271   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\GalaSoft.MvvmLight.Extras.dll
+2016-02-09 15:01:20.271   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.271   Installing the file.
+2016-02-09 15:01:20.302   Successfully installed the file.
+2016-02-09 15:01:20.302   -- File entry --
+2016-02-09 15:01:20.302   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Gma.QrCodeNet.Encoding.dll
+2016-02-09 15:01:20.302   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.302   Installing the file.
+2016-02-09 15:01:20.349   Successfully installed the file.
+2016-02-09 15:01:20.349   -- File entry --
+2016-02-09 15:01:20.349   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Interop.IWshRuntimeLibrary.dll
+2016-02-09 15:01:20.349   Time stamp of our file: 2016-02-02 15:01:56.000
+2016-02-09 15:01:20.349   Installing the file.
+2016-02-09 15:01:20.412   Successfully installed the file.
+2016-02-09 15:01:20.412   -- File entry --
+2016-02-09 15:01:20.412   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Microsoft.Practices.ServiceLocation.dll
+2016-02-09 15:01:20.412   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.412   Installing the file.
+2016-02-09 15:01:20.537   Successfully installed the file.
+2016-02-09 15:01:20.537   -- File entry --
+2016-02-09 15:01:20.537   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Microsoft.WindowsAPICodePack.dll
+2016-02-09 15:01:20.537   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.537   Installing the file.
+2016-02-09 15:01:20.615   Successfully installed the file.
+2016-02-09 15:01:20.615   -- File entry --
+2016-02-09 15:01:20.615   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Microsoft.WindowsAPICodePack.Shell.dll
+2016-02-09 15:01:20.615   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.615   Installing the file.
+2016-02-09 15:01:20.771   Successfully installed the file.
+2016-02-09 15:01:20.771   -- File entry --
+2016-02-09 15:01:20.771   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Newtonsoft.Json.dll
+2016-02-09 15:01:20.771   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.771   Installing the file.
+2016-02-09 15:01:20.896   Successfully installed the file.
+2016-02-09 15:01:20.896   -- File entry --
+2016-02-09 15:01:20.896   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\NLog.dll
+2016-02-09 15:01:20.896   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:20.896   Installing the file.
+2016-02-09 15:01:21.037   Successfully installed the file.
+2016-02-09 15:01:21.037   -- File entry --
+2016-02-09 15:01:21.037   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\QualityStats.dll
+2016-02-09 15:01:21.037   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:21.037   Installing the file.
+2016-02-09 15:01:21.394   Successfully installed the file.
+2016-02-09 15:01:21.394   -- File entry --
+2016-02-09 15:01:21.394   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\QualityStats.XmlSerializers.dll
+2016-02-09 15:01:21.394   Time stamp of our file: 2016-01-20 21:12:00.000
+2016-02-09 15:01:21.394   Installing the file.
+2016-02-09 15:01:21.611   Successfully installed the file.
+2016-02-09 15:01:21.611   -- File entry --
+2016-02-09 15:01:21.611   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\QualityStats_repo1.dll
+2016-02-09 15:01:21.611   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:21.611   Installing the file.
+2016-02-09 15:01:21.715   Successfully installed the file.
+2016-02-09 15:01:21.716   -- File entry --
+2016-02-09 15:01:21.716   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\RestSharp.dll
+2016-02-09 15:01:21.716   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:21.716   Installing the file.
+2016-02-09 15:01:21.771   Successfully installed the file.
+2016-02-09 15:01:21.771   -- File entry --
+2016-02-09 15:01:21.771   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Security.Cryptography.dll
+2016-02-09 15:01:21.771   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:21.771   Installing the file.
+2016-02-09 15:01:21.880   Successfully installed the file.
+2016-02-09 15:01:21.880   -- File entry --
+2016-02-09 15:01:21.880   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.exe
+2016-02-09 15:01:21.880   Time stamp of our file: 2016-02-02 15:02:56.000
+2016-02-09 15:01:21.880   Installing the file.
+2016-02-09 15:01:22.036   Successfully installed the file.
+2016-02-09 15:01:22.036   -- File entry --
+2016-02-09 15:01:22.036   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.exe.config
+2016-02-09 15:01:22.036   Time stamp of our file: 2016-01-20 21:12:08.000
+2016-02-09 15:01:22.036   Installing the file.
+2016-02-09 15:01:22.052   Successfully installed the file.
+2016-02-09 15:01:22.052   -- File entry --
+2016-02-09 15:01:22.052   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Foundation.dll
+2016-02-09 15:01:22.052   Time stamp of our file: 2016-02-02 15:03:00.000
+2016-02-09 15:01:22.052   Installing the file.
+2016-02-09 15:01:22.231   Successfully installed the file.
+2016-02-09 15:01:22.232   -- File entry --
+2016-02-09 15:01:22.232   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Prompt.exe
+2016-02-09 15:01:22.233   Time stamp of our file: 2016-02-02 15:02:56.000
+2016-02-09 15:01:22.233   Installing the file.
+2016-02-09 15:01:22.286   Successfully installed the file.
+2016-02-09 15:01:22.286   -- File entry --
+2016-02-09 15:01:22.286   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Prompt.exe.config
+2016-02-09 15:01:22.286   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:22.286   Installing the file.
+2016-02-09 15:01:22.302   Successfully installed the file.
+2016-02-09 15:01:22.302   -- File entry --
+2016-02-09 15:01:22.302   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Reporter.exe
+2016-02-09 15:01:22.302   Time stamp of our file: 2016-02-02 15:02:58.000
+2016-02-09 15:01:22.302   Installing the file.
+2016-02-09 15:01:22.349   Successfully installed the file.
+2016-02-09 15:01:22.349   -- File entry --
+2016-02-09 15:01:22.349   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Reporter.exe.config
+2016-02-09 15:01:22.349   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:22.349   Installing the file.
+2016-02-09 15:01:22.349   Successfully installed the file.
+2016-02-09 15:01:22.349   -- File entry --
+2016-02-09 15:01:22.349   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Resource.dll
+2016-02-09 15:01:22.349   Time stamp of our file: 2016-02-02 15:03:02.000
+2016-02-09 15:01:22.349   Installing the file.
+2016-02-09 15:01:22.694   Successfully installed the file.
+2016-02-09 15:01:22.694   -- File entry --
+2016-02-09 15:01:22.694   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Service.exe
+2016-02-09 15:01:22.694   Time stamp of our file: 2016-02-02 15:02:58.000
+2016-02-09 15:01:22.694   Installing the file.
+2016-02-09 15:01:22.742   Successfully installed the file.
+2016-02-09 15:01:22.743   -- File entry --
+2016-02-09 15:01:22.743   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Service.exe.config
+2016-02-09 15:01:22.743   Time stamp of our file: 2016-01-20 21:12:06.000
+2016-02-09 15:01:22.743   Installing the file.
+2016-02-09 15:01:22.748   Successfully installed the file.
+2016-02-09 15:01:22.749   -- File entry --
+2016-02-09 15:01:22.749   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Softap.dll
+2016-02-09 15:01:22.749   Time stamp of our file: 2016-02-02 15:03:04.000
+2016-02-09 15:01:22.749   Installing the file.
+2016-02-09 15:01:22.770   Successfully installed the file.
+2016-02-09 15:01:22.770   -- File entry --
+2016-02-09 15:01:22.771   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Updater.exe
+2016-02-09 15:01:22.771   Time stamp of our file: 2016-02-02 15:03:00.000
+2016-02-09 15:01:22.771   Installing the file.
+2016-02-09 15:01:22.865   Successfully installed the file.
+2016-02-09 15:01:22.865   -- File entry --
+2016-02-09 15:01:22.865   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.Updater.exe.config
+2016-02-09 15:01:22.865   Time stamp of our file: 2016-02-02 14:36:14.000
+2016-02-09 15:01:22.865   Installing the file.
+2016-02-09 15:01:22.865   Successfully installed the file.
+2016-02-09 15:01:22.865   -- File entry --
+2016-02-09 15:01:22.865   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\SQLite.Interop.dll
+2016-02-09 15:01:22.865   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:22.865   Installing the file.
+2016-02-09 15:01:23.215   Successfully installed the file.
+2016-02-09 15:01:23.215   -- File entry --
+2016-02-09 15:01:23.215   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\System.Data.SQLite.dll
+2016-02-09 15:01:23.215   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:23.215   Installing the file.
+2016-02-09 15:01:23.446   Successfully installed the file.
+2016-02-09 15:01:23.446   -- File entry --
+2016-02-09 15:01:23.446   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\System.Windows.Interactivity.dll
+2016-02-09 15:01:23.446   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:23.446   Installing the file.
+2016-02-09 15:01:23.509   Successfully installed the file.
+2016-02-09 15:01:23.509   -- File entry --
+2016-02-09 15:01:23.509   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\Transitionals.dll
+2016-02-09 15:01:23.509   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:23.509   Installing the file.
+2016-02-09 15:01:23.555   Successfully installed the file.
+2016-02-09 15:01:23.555   -- File entry --
+2016-02-09 15:01:23.555   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\UserVoice.dll
+2016-02-09 15:01:23.555   Time stamp of our file: 2016-01-20 21:12:02.000
+2016-02-09 15:01:23.555   Installing the file.
+2016-02-09 15:01:23.578   Successfully installed the file.
+2016-02-09 15:01:23.579   -- File entry --
+2016-02-09 15:01:23.580   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ar\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.580   Time stamp of our file: 2016-02-02 15:03:04.000
+2016-02-09 15:01:23.580   Installing the file.
+2016-02-09 15:01:23.580   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ar
+2016-02-09 15:01:23.596   Successfully installed the file.
+2016-02-09 15:01:23.596   -- File entry --
+2016-02-09 15:01:23.596   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ar\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.596   Time stamp of our file: 2016-02-02 15:03:08.000
+2016-02-09 15:01:23.596   Installing the file.
+2016-02-09 15:01:23.627   Successfully installed the file.
+2016-02-09 15:01:23.627   -- File entry --
+2016-02-09 15:01:23.627   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\bg\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.627   Time stamp of our file: 2016-02-02 15:03:10.000
+2016-02-09 15:01:23.627   Installing the file.
+2016-02-09 15:01:23.627   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\bg
+2016-02-09 15:01:23.643   Successfully installed the file.
+2016-02-09 15:01:23.643   -- File entry --
+2016-02-09 15:01:23.643   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\bg\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.643   Time stamp of our file: 2016-02-02 15:03:10.000
+2016-02-09 15:01:23.643   Installing the file.
+2016-02-09 15:01:23.658   Successfully installed the file.
+2016-02-09 15:01:23.658   -- File entry --
+2016-02-09 15:01:23.658   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\cs\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.658   Time stamp of our file: 2016-02-02 15:03:14.000
+2016-02-09 15:01:23.658   Installing the file.
+2016-02-09 15:01:23.658   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\cs
+2016-02-09 15:01:23.705   Successfully installed the file.
+2016-02-09 15:01:23.705   -- File entry --
+2016-02-09 15:01:23.705   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\cs\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.705   Time stamp of our file: 2016-02-02 15:03:16.000
+2016-02-09 15:01:23.705   Installing the file.
+2016-02-09 15:01:23.752   Successfully installed the file.
+2016-02-09 15:01:23.752   -- File entry --
+2016-02-09 15:01:23.752   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\da\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.752   Time stamp of our file: 2016-02-02 15:03:16.000
+2016-02-09 15:01:23.752   Installing the file.
+2016-02-09 15:01:23.752   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\da
+2016-02-09 15:01:23.768   Successfully installed the file.
+2016-02-09 15:01:23.768   -- File entry --
+2016-02-09 15:01:23.768   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\da\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.768   Time stamp of our file: 2016-02-02 15:03:18.000
+2016-02-09 15:01:23.768   Installing the file.
+2016-02-09 15:01:23.815   Successfully installed the file.
+2016-02-09 15:01:23.816   -- File entry --
+2016-02-09 15:01:23.817   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\de\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.818   Time stamp of our file: 2016-02-02 15:03:18.000
+2016-02-09 15:01:23.818   Installing the file.
+2016-02-09 15:01:23.818   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\de
+2016-02-09 15:01:23.834   Successfully installed the file.
+2016-02-09 15:01:23.834   -- File entry --
+2016-02-09 15:01:23.835   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\de\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.835   Time stamp of our file: 2016-02-02 15:03:20.000
+2016-02-09 15:01:23.835   Installing the file.
+2016-02-09 15:01:23.851   Successfully installed the file.
+2016-02-09 15:01:23.851   -- File entry --
+2016-02-09 15:01:23.851   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\el\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.851   Time stamp of our file: 2016-02-02 15:03:20.000
+2016-02-09 15:01:23.851   Installing the file.
+2016-02-09 15:01:23.851   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\el
+2016-02-09 15:01:23.867   Successfully installed the file.
+2016-02-09 15:01:23.867   -- File entry --
+2016-02-09 15:01:23.867   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\el\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.883   Time stamp of our file: 2016-02-02 15:03:22.000
+2016-02-09 15:01:23.883   Installing the file.
+2016-02-09 15:01:23.888   Successfully installed the file.
+2016-02-09 15:01:23.888   -- File entry --
+2016-02-09 15:01:23.888   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\en\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.888   Time stamp of our file: 2016-02-02 15:03:22.000
+2016-02-09 15:01:23.888   Installing the file.
+2016-02-09 15:01:23.888   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\en
+2016-02-09 15:01:23.904   Successfully installed the file.
+2016-02-09 15:01:23.904   -- File entry --
+2016-02-09 15:01:23.904   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\es\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.904   Time stamp of our file: 2016-02-02 15:03:24.000
+2016-02-09 15:01:23.904   Installing the file.
+2016-02-09 15:01:23.904   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\es
+2016-02-09 15:01:23.919   Successfully installed the file.
+2016-02-09 15:01:23.919   -- File entry --
+2016-02-09 15:01:23.919   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\es\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.919   Time stamp of our file: 2016-02-02 15:03:24.000
+2016-02-09 15:01:23.919   Installing the file.
+2016-02-09 15:01:23.951   Successfully installed the file.
+2016-02-09 15:01:23.951   -- File entry --
+2016-02-09 15:01:23.951   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\et\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.951   Time stamp of our file: 2016-02-02 15:03:26.000
+2016-02-09 15:01:23.951   Installing the file.
+2016-02-09 15:01:23.951   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\et
+2016-02-09 15:01:23.966   Successfully installed the file.
+2016-02-09 15:01:23.966   -- File entry --
+2016-02-09 15:01:23.966   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\et\SHAREit.Resource.resources.dll
+2016-02-09 15:01:23.966   Time stamp of our file: 2016-02-02 15:03:26.000
+2016-02-09 15:01:23.966   Installing the file.
+2016-02-09 15:01:23.998   Successfully installed the file.
+2016-02-09 15:01:23.998   -- File entry --
+2016-02-09 15:01:23.998   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\fi\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:23.998   Time stamp of our file: 2016-02-02 15:03:28.000
+2016-02-09 15:01:23.998   Installing the file.
+2016-02-09 15:01:23.998   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\fi
+2016-02-09 15:01:24.013   Successfully installed the file.
+2016-02-09 15:01:24.013   -- File entry --
+2016-02-09 15:01:24.013   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\fi\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.013   Time stamp of our file: 2016-02-02 15:03:28.000
+2016-02-09 15:01:24.013   Installing the file.
+2016-02-09 15:01:24.029   Successfully installed the file.
+2016-02-09 15:01:24.029   -- File entry --
+2016-02-09 15:01:24.029   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\fr\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.029   Time stamp of our file: 2016-02-02 15:03:28.000
+2016-02-09 15:01:24.029   Installing the file.
+2016-02-09 15:01:24.029   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\fr
+2016-02-09 15:01:24.076   Successfully installed the file.
+2016-02-09 15:01:24.076   -- File entry --
+2016-02-09 15:01:24.076   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\fr\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.076   Time stamp of our file: 2016-02-02 15:03:30.000
+2016-02-09 15:01:24.076   Installing the file.
+2016-02-09 15:01:24.107   Successfully installed the file.
+2016-02-09 15:01:24.107   -- File entry --
+2016-02-09 15:01:24.107   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\he\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.107   Time stamp of our file: 2016-02-02 15:03:30.000
+2016-02-09 15:01:24.107   Installing the file.
+2016-02-09 15:01:24.107   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\he
+2016-02-09 15:01:24.123   Successfully installed the file.
+2016-02-09 15:01:24.123   -- File entry --
+2016-02-09 15:01:24.123   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\he\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.123   Time stamp of our file: 2016-02-02 15:03:32.000
+2016-02-09 15:01:24.123   Installing the file.
+2016-02-09 15:01:24.185   Successfully installed the file.
+2016-02-09 15:01:24.185   -- File entry --
+2016-02-09 15:01:24.185   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\hr\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.185   Time stamp of our file: 2016-02-02 15:03:32.000
+2016-02-09 15:01:24.185   Installing the file.
+2016-02-09 15:01:24.185   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\hr
+2016-02-09 15:01:24.201   Successfully installed the file.
+2016-02-09 15:01:24.201   -- File entry --
+2016-02-09 15:01:24.201   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\hr\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.201   Time stamp of our file: 2016-02-02 15:03:34.000
+2016-02-09 15:01:24.201   Installing the file.
+2016-02-09 15:01:24.248   Successfully installed the file.
+2016-02-09 15:01:24.248   -- File entry --
+2016-02-09 15:01:24.248   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\hu\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.248   Time stamp of our file: 2016-02-02 15:03:34.000
+2016-02-09 15:01:24.248   Installing the file.
+2016-02-09 15:01:24.248   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\hu
+2016-02-09 15:01:24.310   Successfully installed the file.
+2016-02-09 15:01:24.310   -- File entry --
+2016-02-09 15:01:24.310   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\hu\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.310   Time stamp of our file: 2016-02-02 15:03:36.000
+2016-02-09 15:01:24.310   Installing the file.
+2016-02-09 15:01:24.338   Successfully installed the file.
+2016-02-09 15:01:24.338   -- File entry --
+2016-02-09 15:01:24.338   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\id\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.339   Time stamp of our file: 2016-02-02 15:03:36.000
+2016-02-09 15:01:24.339   Installing the file.
+2016-02-09 15:01:24.339   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\id
+2016-02-09 15:01:24.353   Successfully installed the file.
+2016-02-09 15:01:24.354   -- File entry --
+2016-02-09 15:01:24.354   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\id\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.355   Time stamp of our file: 2016-02-02 15:03:38.000
+2016-02-09 15:01:24.355   Installing the file.
+2016-02-09 15:01:24.367   Successfully installed the file.
+2016-02-09 15:01:24.367   -- File entry --
+2016-02-09 15:01:24.367   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\it\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.367   Time stamp of our file: 2016-02-02 15:03:38.000
+2016-02-09 15:01:24.367   Installing the file.
+2016-02-09 15:01:24.367   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\it
+2016-02-09 15:01:24.414   Successfully installed the file.
+2016-02-09 15:01:24.414   -- File entry --
+2016-02-09 15:01:24.414   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\it\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.414   Time stamp of our file: 2016-02-02 15:03:40.000
+2016-02-09 15:01:24.414   Installing the file.
+2016-02-09 15:01:24.430   Successfully installed the file.
+2016-02-09 15:01:24.430   -- File entry --
+2016-02-09 15:01:24.430   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ja\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.430   Time stamp of our file: 2016-02-02 15:03:40.000
+2016-02-09 15:01:24.430   Installing the file.
+2016-02-09 15:01:24.430   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ja
+2016-02-09 15:01:24.445   Successfully installed the file.
+2016-02-09 15:01:24.445   -- File entry --
+2016-02-09 15:01:24.445   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ja\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.445   Time stamp of our file: 2016-02-02 15:03:42.000
+2016-02-09 15:01:24.445   Installing the file.
+2016-02-09 15:01:24.461   Successfully installed the file.
+2016-02-09 15:01:24.461   -- File entry --
+2016-02-09 15:01:24.461   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ko\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.461   Time stamp of our file: 2016-02-02 15:03:42.000
+2016-02-09 15:01:24.461   Installing the file.
+2016-02-09 15:01:24.461   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ko
+2016-02-09 15:01:24.477   Successfully installed the file.
+2016-02-09 15:01:24.477   -- File entry --
+2016-02-09 15:01:24.477   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ko\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.477   Time stamp of our file: 2016-02-02 15:03:44.000
+2016-02-09 15:01:24.477   Installing the file.
+2016-02-09 15:01:24.492   Successfully installed the file.
+2016-02-09 15:01:24.492   -- File entry --
+2016-02-09 15:01:24.492   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\lt\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.492   Time stamp of our file: 2016-02-02 15:03:44.000
+2016-02-09 15:01:24.492   Installing the file.
+2016-02-09 15:01:24.492   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\lt
+2016-02-09 15:01:24.508   Successfully installed the file.
+2016-02-09 15:01:24.508   -- File entry --
+2016-02-09 15:01:24.508   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\lt\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.508   Time stamp of our file: 2016-02-02 15:03:44.000
+2016-02-09 15:01:24.508   Installing the file.
+2016-02-09 15:01:24.524   Successfully installed the file.
+2016-02-09 15:01:24.524   -- File entry --
+2016-02-09 15:01:24.524   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\lv\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.524   Time stamp of our file: 2016-02-02 15:03:46.000
+2016-02-09 15:01:24.524   Installing the file.
+2016-02-09 15:01:24.524   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\lv
+2016-02-09 15:01:24.561   Successfully installed the file.
+2016-02-09 15:01:24.561   -- File entry --
+2016-02-09 15:01:24.561   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\lv\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.561   Time stamp of our file: 2016-02-02 15:03:46.000
+2016-02-09 15:01:24.561   Installing the file.
+2016-02-09 15:01:24.593   Successfully installed the file.
+2016-02-09 15:01:24.593   -- File entry --
+2016-02-09 15:01:24.593   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ms\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.593   Time stamp of our file: 2016-02-02 15:03:48.000
+2016-02-09 15:01:24.593   Installing the file.
+2016-02-09 15:01:24.593   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ms
+2016-02-09 15:01:24.608   Successfully installed the file.
+2016-02-09 15:01:24.608   -- File entry --
+2016-02-09 15:01:24.608   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ms\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.608   Time stamp of our file: 2016-02-02 15:03:48.000
+2016-02-09 15:01:24.608   Installing the file.
+2016-02-09 15:01:24.624   Successfully installed the file.
+2016-02-09 15:01:24.624   -- File entry --
+2016-02-09 15:01:24.624   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\nb\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.624   Time stamp of our file: 2016-02-02 15:03:50.000
+2016-02-09 15:01:24.624   Installing the file.
+2016-02-09 15:01:24.624   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\nb
+2016-02-09 15:01:24.655   Successfully installed the file.
+2016-02-09 15:01:24.655   -- File entry --
+2016-02-09 15:01:24.655   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\nb\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.655   Time stamp of our file: 2016-02-02 15:03:50.000
+2016-02-09 15:01:24.655   Installing the file.
+2016-02-09 15:01:24.671   Successfully installed the file.
+2016-02-09 15:01:24.671   -- File entry --
+2016-02-09 15:01:24.671   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\nl\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.671   Time stamp of our file: 2016-02-02 15:03:52.000
+2016-02-09 15:01:24.671   Installing the file.
+2016-02-09 15:01:24.671   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\nl
+2016-02-09 15:01:24.686   Successfully installed the file.
+2016-02-09 15:01:24.686   -- File entry --
+2016-02-09 15:01:24.686   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\nl\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.686   Time stamp of our file: 2016-02-02 15:03:52.000
+2016-02-09 15:01:24.686   Installing the file.
+2016-02-09 15:01:24.733   Successfully installed the file.
+2016-02-09 15:01:24.733   -- File entry --
+2016-02-09 15:01:24.733   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pl\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.733   Time stamp of our file: 2016-02-02 15:03:54.000
+2016-02-09 15:01:24.733   Installing the file.
+2016-02-09 15:01:24.733   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\pl
+2016-02-09 15:01:24.764   Successfully installed the file.
+2016-02-09 15:01:24.764   -- File entry --
+2016-02-09 15:01:24.764   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pl\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.764   Time stamp of our file: 2016-02-02 15:03:54.000
+2016-02-09 15:01:24.764   Installing the file.
+2016-02-09 15:01:24.796   Successfully installed the file.
+2016-02-09 15:01:24.796   -- File entry --
+2016-02-09 15:01:24.796   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pt\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.796   Time stamp of our file: 2016-02-02 15:03:56.000
+2016-02-09 15:01:24.796   Installing the file.
+2016-02-09 15:01:24.796   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\pt
+2016-02-09 15:01:24.811   Successfully installed the file.
+2016-02-09 15:01:24.811   -- File entry --
+2016-02-09 15:01:24.827   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pt\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.827   Time stamp of our file: 2016-02-02 15:03:56.000
+2016-02-09 15:01:24.827   Installing the file.
+2016-02-09 15:01:24.879   Successfully installed the file.
+2016-02-09 15:01:24.880   -- File entry --
+2016-02-09 15:01:24.881   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pt-br\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.881   Time stamp of our file: 2016-02-02 15:03:58.000
+2016-02-09 15:01:24.881   Installing the file.
+2016-02-09 15:01:24.882   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\pt-br
+2016-02-09 15:01:24.883   Successfully installed the file.
+2016-02-09 15:01:24.883   -- File entry --
+2016-02-09 15:01:24.883   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\pt-br\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.883   Time stamp of our file: 2016-02-02 15:03:58.000
+2016-02-09 15:01:24.883   Installing the file.
+2016-02-09 15:01:24.899   Successfully installed the file.
+2016-02-09 15:01:24.899   -- File entry --
+2016-02-09 15:01:24.914   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ro\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.914   Time stamp of our file: 2016-02-02 15:04:00.000
+2016-02-09 15:01:24.914   Installing the file.
+2016-02-09 15:01:24.914   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ro
+2016-02-09 15:01:24.914   Successfully installed the file.
+2016-02-09 15:01:24.914   -- File entry --
+2016-02-09 15:01:24.930   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ro\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.930   Time stamp of our file: 2016-02-02 15:04:00.000
+2016-02-09 15:01:24.930   Installing the file.
+2016-02-09 15:01:24.946   Successfully installed the file.
+2016-02-09 15:01:24.946   -- File entry --
+2016-02-09 15:01:24.946   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ru\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:24.946   Time stamp of our file: 2016-02-02 15:04:02.000
+2016-02-09 15:01:24.946   Installing the file.
+2016-02-09 15:01:24.946   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\ru
+2016-02-09 15:01:24.977   Successfully installed the file.
+2016-02-09 15:01:24.977   -- File entry --
+2016-02-09 15:01:24.977   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\ru\SHAREit.Resource.resources.dll
+2016-02-09 15:01:24.977   Time stamp of our file: 2016-02-02 15:04:02.000
+2016-02-09 15:01:24.977   Installing the file.
+2016-02-09 15:01:25.008   Successfully installed the file.
+2016-02-09 15:01:25.008   -- File entry --
+2016-02-09 15:01:25.008   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sk\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.008   Time stamp of our file: 2016-02-02 15:04:02.000
+2016-02-09 15:01:25.008   Installing the file.
+2016-02-09 15:01:25.008   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\sk
+2016-02-09 15:01:25.024   Successfully installed the file.
+2016-02-09 15:01:25.024   -- File entry --
+2016-02-09 15:01:25.024   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sk\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.024   Time stamp of our file: 2016-02-02 15:04:04.000
+2016-02-09 15:01:25.024   Installing the file.
+2016-02-09 15:01:25.055   Successfully installed the file.
+2016-02-09 15:01:25.055   -- File entry --
+2016-02-09 15:01:25.055   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sl\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.055   Time stamp of our file: 2016-02-02 15:04:04.000
+2016-02-09 15:01:25.055   Installing the file.
+2016-02-09 15:01:25.055   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\sl
+2016-02-09 15:01:25.071   Successfully installed the file.
+2016-02-09 15:01:25.071   -- File entry --
+2016-02-09 15:01:25.071   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sl\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.071   Time stamp of our file: 2016-02-02 15:04:06.000
+2016-02-09 15:01:25.071   Installing the file.
+2016-02-09 15:01:25.086   Successfully installed the file.
+2016-02-09 15:01:25.086   -- File entry --
+2016-02-09 15:01:25.086   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sr\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.086   Time stamp of our file: 2016-02-02 15:04:06.000
+2016-02-09 15:01:25.086   Installing the file.
+2016-02-09 15:01:25.086   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\sr
+2016-02-09 15:01:25.102   Successfully installed the file.
+2016-02-09 15:01:25.102   -- File entry --
+2016-02-09 15:01:25.102   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sr\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.102   Time stamp of our file: 2016-02-02 15:04:08.000
+2016-02-09 15:01:25.102   Installing the file.
+2016-02-09 15:01:25.133   Successfully installed the file.
+2016-02-09 15:01:25.133   -- File entry --
+2016-02-09 15:01:25.133   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sv\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.133   Time stamp of our file: 2016-02-02 15:04:08.000
+2016-02-09 15:01:25.133   Installing the file.
+2016-02-09 15:01:25.133   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\sv
+2016-02-09 15:01:25.149   Successfully installed the file.
+2016-02-09 15:01:25.149   -- File entry --
+2016-02-09 15:01:25.149   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\sv\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.149   Time stamp of our file: 2016-02-02 15:04:10.000
+2016-02-09 15:01:25.149   Installing the file.
+2016-02-09 15:01:25.164   Successfully installed the file.
+2016-02-09 15:01:25.164   -- File entry --
+2016-02-09 15:01:25.164   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\th\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.164   Time stamp of our file: 2016-02-02 15:04:10.000
+2016-02-09 15:01:25.164   Installing the file.
+2016-02-09 15:01:25.164   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\th
+2016-02-09 15:01:25.196   Successfully installed the file.
+2016-02-09 15:01:25.196   -- File entry --
+2016-02-09 15:01:25.196   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\th\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.196   Time stamp of our file: 2016-02-02 15:04:12.000
+2016-02-09 15:01:25.196   Installing the file.
+2016-02-09 15:01:25.227   Successfully installed the file.
+2016-02-09 15:01:25.227   -- File entry --
+2016-02-09 15:01:25.227   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\tr\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.227   Time stamp of our file: 2016-02-02 15:04:12.000
+2016-02-09 15:01:25.227   Installing the file.
+2016-02-09 15:01:25.227   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\tr
+2016-02-09 15:01:25.258   Successfully installed the file.
+2016-02-09 15:01:25.258   -- File entry --
+2016-02-09 15:01:25.258   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\tr\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.258   Time stamp of our file: 2016-02-02 15:04:14.000
+2016-02-09 15:01:25.258   Installing the file.
+2016-02-09 15:01:25.289   Successfully installed the file.
+2016-02-09 15:01:25.289   -- File entry --
+2016-02-09 15:01:25.289   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\uk\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.289   Time stamp of our file: 2016-02-02 15:04:14.000
+2016-02-09 15:01:25.289   Installing the file.
+2016-02-09 15:01:25.289   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\uk
+2016-02-09 15:01:25.305   Successfully installed the file.
+2016-02-09 15:01:25.305   -- File entry --
+2016-02-09 15:01:25.305   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\uk\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.305   Time stamp of our file: 2016-02-02 15:04:16.000
+2016-02-09 15:01:25.305   Installing the file.
+2016-02-09 15:01:25.336   Successfully installed the file.
+2016-02-09 15:01:25.336   -- File entry --
+2016-02-09 15:01:25.336   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\vi\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.336   Time stamp of our file: 2016-02-02 15:04:18.000
+2016-02-09 15:01:25.336   Installing the file.
+2016-02-09 15:01:25.336   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\vi
+2016-02-09 15:01:25.362   Successfully installed the file.
+2016-02-09 15:01:25.362   -- File entry --
+2016-02-09 15:01:25.363   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\vi\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.363   Time stamp of our file: 2016-02-02 15:04:18.000
+2016-02-09 15:01:25.363   Installing the file.
+2016-02-09 15:01:25.381   Successfully installed the file.
+2016-02-09 15:01:25.383   -- File entry --
+2016-02-09 15:01:25.383   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hans\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.384   Time stamp of our file: 2016-02-02 15:04:20.000
+2016-02-09 15:01:25.384   Installing the file.
+2016-02-09 15:01:25.384   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\zh-hans
+2016-02-09 15:01:25.398   Successfully installed the file.
+2016-02-09 15:01:25.399   -- File entry --
+2016-02-09 15:01:25.399   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hans\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.399   Time stamp of our file: 2016-02-02 15:04:20.000
+2016-02-09 15:01:25.399   Installing the file.
+2016-02-09 15:01:25.430   Successfully installed the file.
+2016-02-09 15:01:25.430   -- File entry --
+2016-02-09 15:01:25.430   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hant\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.430   Time stamp of our file: 2016-02-02 15:04:22.000
+2016-02-09 15:01:25.430   Installing the file.
+2016-02-09 15:01:25.430   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\zh-hant
+2016-02-09 15:01:25.446   Successfully installed the file.
+2016-02-09 15:01:25.446   -- File entry --
+2016-02-09 15:01:25.446   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hant\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.446   Time stamp of our file: 2016-02-02 15:04:22.000
+2016-02-09 15:01:25.446   Installing the file.
+2016-02-09 15:01:25.461   Successfully installed the file.
+2016-02-09 15:01:25.461   -- File entry --
+2016-02-09 15:01:25.461   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hk\SHAREit.Prompt.resources.dll
+2016-02-09 15:01:25.461   Time stamp of our file: 2016-02-02 15:04:24.000
+2016-02-09 15:01:25.461   Installing the file.
+2016-02-09 15:01:25.461   Creating directory: C:\Program Files (x86)\SHAREit\SHAREit\zh-hk
+2016-02-09 15:01:25.477   Successfully installed the file.
+2016-02-09 15:01:25.477   -- File entry --
+2016-02-09 15:01:25.477   Dest filename: C:\Program Files (x86)\SHAREit\SHAREit\zh-hk\SHAREit.Resource.resources.dll
+2016-02-09 15:01:25.477   Time stamp of our file: 2016-02-02 15:04:24.000
+2016-02-09 15:01:25.477   Installing the file.
+2016-02-09 15:01:25.493   Successfully installed the file.
+2016-02-09 15:01:25.493   -- Icon entry --
+2016-02-09 15:01:25.493   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SHAREit\SHAREit.lnk
+2016-02-09 15:01:25.493   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\SHAREit
+2016-02-09 15:01:25.579   Creating the icon.
+2016-02-09 15:01:25.751   Successfully created the icon.
+2016-02-09 15:01:25.767   -- Icon entry --
+2016-02-09 15:01:25.767   Dest filename: C:\Users\Public\Desktop\SHAREit.lnk
+2016-02-09 15:01:25.767   Creating the icon.
+2016-02-09 15:01:25.798   Successfully created the icon.
+2016-02-09 15:01:27.615   Installation process succeeded.
+2016-02-09 15:01:27.615   -- Run entry --
+2016-02-09 15:01:27.615   Run as: Current user
+2016-02-09 15:01:27.615   Type: Exec
+2016-02-09 15:01:27.615   Filename: C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe
+2016-02-09 15:01:27.615   Parameters: Shareit.Service.exe
+2016-02-09 15:01:54.245   Process exit code: 0
+2016-02-09 15:01:54.245   -- Run entry --
+2016-02-09 15:01:54.245   Run as: Current user
+2016-02-09 15:01:54.245   Type: Exec
+2016-02-09 15:01:54.245   Filename: C:\Program Files (x86)\SHAREit\SHAREit\Shareit.Reporter.exe
+2016-02-09 15:01:54.245   Parameters: /direct /install
+2016-02-09 15:02:13.407   **advfirewall firewall add rule name="SHAREit.exe" dir=in action=allow program="C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.exe"  enable=yes profile=any protocol=TCP is run successful
+2016-02-09 15:02:13.554   **advfirewall firewall add rule name="SHAREit.exe" dir=in action=allow program="C:\Program Files (x86)\SHAREit\SHAREit\SHAREit.exe"  enable=yes profile=any protocol=UDP is run successful
+2016-02-09 15:02:13.554   Need to restart Windows? No
+2016-02-09 15:02:15.368   -- Run entry --
+2016-02-09 15:02:15.368   Run as: Original user
+2016-02-09 15:02:15.368   Type: Exec
+2016-02-09 15:02:15.368   Filename: C:\Program Files (x86)\SHAREit\SHAREit\Shareit.exe
+2016-02-09 15:02:16.385   Deinitializing Setup.
+2016-02-09 15:02:16.417   Log closed.

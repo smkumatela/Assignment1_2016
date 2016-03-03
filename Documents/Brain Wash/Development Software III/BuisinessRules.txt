@@ -1,0 +1,16 @@
+Business Rules
+
+Web and mobile Application
+
+-Only registered users can use the application
+-Only the system administrator can add, update or delete the users on the system
+-Only the system administrator have access to everything on the system
+-Editor only have the access to the content on the system
+-Content can only have three type of content type. Raw, Edited and Published
+-Every time a content is edited, the new copy of the content is being created.
+ -No content will be deleted or updated but instead the new copy of the content will be created.
+-Every time content is edited it moves from Raw to Edited or Edited to Published.
+-Care givers can only use the mobile application
+-Care givers can only send tips/ content to the web app via mobile app
+- Care givers can only view the content that has been published / approved via the web application, meaning that a tip has to be sent via a mobile app than gets edited and published on the web app in order to be seen by other care givers.
+-To access the server a user must be authenticated.

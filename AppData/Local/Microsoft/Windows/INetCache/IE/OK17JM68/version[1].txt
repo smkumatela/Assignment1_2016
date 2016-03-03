@@ -1,0 +1,10 @@
+Version: 7.1.5
+
+Virtual DJ Studio 2015 (7.1.05)
+Released June 6th, 2015
+
+Minor upgrade to the installer process. Download only if you
+experienced problems installing the 7.1.x versions before.
+
+This upgrade is FREE if you are licensed for any 2015 version.
+

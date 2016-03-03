@@ -1,0 +1,29 @@
+CREATE OR REPLACE PROCEDURE print_order(p_order NUMBER) 
+IS
+CURSOR pizza_cur IS 
+        SELECT p.pizza_nr, b.base_code, b.size_of_pizza, p.pizza_price
+        FROM pizza p, base b
+        WHERE p_order = p.order_id
+        AND p.base_code = b.base_code;
+
+CURSOR topping_cur(c_nr NUMBER) IS
+        SELECT description
+        FROM pizza_topping pt, topping t 
+        WHERE pt.top_code = t.top_code
+        AND pt.pizza_nr = c_nr;
+v_total number(7,2) :=0;
+BEGIN 
+  DBMS_OUTPUT.PUT_LINE('Pizza Ordered For '|| p_order||'printed on '|| to_char(sysdate, 'DD-MM-YYYY'));
+  FOR pizza_rec in pizza_cur LOOP
+  DBMS_OUTPUT.PUT_LINE('size'||pizza_rec.size_of_pizza||'price'||pizza_rec.pizza_price);
+  v_total:= v_total + pizza_rec.pizza_price;
+    FOR top_rec IN topping_cur(pizza_rec.pizza_nr)LOOP
+    DBMS_OUTPUT.PUT_LINE(top_rec.description ||' ');
+    END LOOP;
+  DBMS_OUTPUT.NEW_LINE;
+  END LOOP;
+  DBMS_OUTPUT.NEW_LINE;
+  DBMS_OUTPUT.PUT_LINE('The total due for this order is '||v_total);
+EXCEPTION 
+  WHEN no_data_found THEN
+  RAISE_APPLICATION_ERROR(-20100, 'Invalid pizza number');

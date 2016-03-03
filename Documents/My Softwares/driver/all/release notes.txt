@@ -1,0 +1,26 @@
+version 1.02.03.00 2012-03-26
+  modified that only send SCSI to device which used PNP 2.0 methord
+version 1.02.02.00 2012-02-17
+  Add that compatible win7/Vista not pop-up OS Program Compatibility Assistant(PCA)
+  Add Display setup packets
+version 1.02.01.00 2012-01-14
+  remove that PC Driver not support new optimied PID function
+version 1.02.00.00 2012-01-06
+  Add new PID_360A for mediapad'ICS
+  Add new PID_1039¡¢1051¡¢1052¡¢1054¡¢1055¡¢1056 for TI SP
+  modified that devsetup32/64.exe not send SCSI to HID device
+version 1.01.03.00 2012-01-02
+  modified init Version parameter that cause driver not be installed when getparas(para rules's " /drvinsted")
+  Fix the issue that the installation take mach time in vista/Win7
+  add HiSuit requirements that same drivers not be installed if the PC already installed one(send parameter: /drvinsted)
+version 1.01.02.00 2011-12-07
+  modified that wait time from 10s to 1s after send the rewind order
+  modified the rewind same to the fake driver sys that send 0x11¡¢0x06
+  modified the ¡°Handset WinDriver.exe¡± that let lower ¡°Handset WinDriver.exe¡± version can not be installed to the pc which already installed high version driver
+version 1.01.01.00
+  Fixed the bug that can not remove some inf files
+  Fixed the bug when dial-up modem cause device reset in win7/Vista 64 system
+  Fixed the bug that have two adb interface in New hardware installation guide
+  Fixed the bug that Driver is installed to click the install program pop-up, driver is installed unloading boxes, multiple clicks can eject a plurality of prompt box, no conflict checking
+version 1.01.00.00
+  Initial version
