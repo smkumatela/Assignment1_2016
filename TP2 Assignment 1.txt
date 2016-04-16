@@ -1,0 +1,54 @@
+1. Set up a GitHub account and address. Make sure that you choose a meaningful name that you will be able toeasily recall and . For Example my GitHub account and address is http://github.com/boniface
+
+2. Log into the Linux Image VM Player and create your unique folder and run the git commands for the following tasks and record he screen short of the results in a word document that you need to submit
+
+i Initilaise git repository
+
+ii. Create a file in your repository and check the status and give the explanation of the status
+
+iii. Track he file that you just created and check status
+
+iv. Committ the file to your repository , check the status and give an explanation
+
+v. Create three more files and check the status and explain why the files are in the states they are in
+
+vi. Make Changes to the file you committed and check the status
+
+vii. Now track the two files that you added above and give the explanation of your status output
+
+viii. Commit the modified file ad check the status
+
+ix. Get the output of the Short Status of your repo
+
+x. Ensure that Git ignores one of the three files that you have created above
+
+xi. Get the status of the changes that you made to your repository
+
+xii. Remove one of the three files that you had created and are tracking. Get the status and give an explanation
+
+xiii. Get the output of your committ History
+
+
+3. This section requires your to use your GitHub account that you just created
+
+i. In your GitHub account, creaete a respository and clone it onto you PC and ensure that you put it in a different directory
+
+ii. Show your full remotes on your local machine using a git command and take asnapshort
+
+ii. Add a file to your repo and push he file to GitHub
+
+iii. Create Another Git Repo and add any other file to the remote repository and again show full remotes for yourrepository
+
+iv. Get the contents of the remote repository in and merge it into your local repo
+
+v. Create another git repository and add another repo repository.
+
+vi. Get the content using using one git command to so that the result is a fully merged repo
+
+vii. Remove the remote from your repostory
+
+4. Demostrate the ability to tag your repo with version numbers and commit these them to gitHub
+
+5. Read the chapter on branching and demostrate the ability to create branches and integrating the merge. GitHub will produce graphs for you.
+
+6. Demostrate Rebasing on another repo that you create on GitHub
